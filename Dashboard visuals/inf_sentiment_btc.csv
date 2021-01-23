@@ -13,6 +13,7 @@ The problem was artificially and intentionally created by limiting the block spa
 2018-01-28,0.0,0.8641,"I wish BTC all the luck in the world, but it isn't the Bitcoin described in the Bitcoin white paper, and it isn't the Bitcoin that I devoted the last 7 years of my life to promoting.   
 
 Bitcoin is BCH ",1,11839.0
+2018-02-01,0.16666666666666666,0.0, Public Service Announcement: If you see a Tweet that tells you to send some cryptos somewhere and more will be sent back to y…,1,9181.1
 2018-02-02,0.1,0.7003,"Fun facts:
  was the first person to translate the Bitcoin white paper into Chinese.
 I was the first person to translate the Bitcoin white paper into Japanese.
@@ -39,10 +40,9 @@ BTC Supporters Today:  Low Fees Are Great! Pop the Champaign!",1,9830.0
  ",1,11440.0
 2018-03-05,0.0,0.0,"In 2013 everyone knew that Bitcoin could scale to tens of thousands of transactions per second on chain.
  ",1,11416.0
-2018-03-06,0.4375,0.31589999999999996,"""The vision of Satoshi Nakamoto lives on in the form of Bitcoin Cash"" 
--  
-
-Learn more at  ",2,10720.0
+2018-03-06,0.4375,0.31589999999999996,"I'm now an advisor for , a fork of JPMorgan's Quorum. 
+My first advice was to accept #BitcoinCash for their ICO. 
+Learn more at ",2,10720.0
 2018-03-07,-0.3888888888888889,-0.8934,"To those arguing that Bitcoin Core fees are no longer ""through the roof"". It only reached this point because you destroyed your user base with an artificial 1MB block size limit. The data speaks for itself - transactions/block down to 2 year lows with dominance at all time lows. ",1,9902.9
 2018-03-08,0.26875,-0.6152,"If Bitcoin had been allowed to scale in a timely fashion, there would be no Bitcoin Cash, there would be no Ethereum, and most of the other alt coins would never have gained any traction at all. Bitcoin would have experienced no real loss of dominance in the market. ",1,9300.0
 2018-03-09,0.24866666666666667,0.91,"High fees, unreliable transactions, and easy double spending are huge barriers to adoption.  
@@ -179,9 +179,9 @@ It won’t, and it is time to move on to other things.
 2018-07-06,0.0,0.6588,  Jimmy is quitting Bitcoin dev to join Bitcoin Cash dev! 😂,1,6602.1
 2018-07-07,0.06885521885521885,0.21783333333333332,"  What propaganda? Some people only care about the store of value aspect of Bitcoin. Whatever works for them. It's a decentralized currency after all. If they want to say that, that's fine. I don't fully agree. But I do support scaling transaction throughput with LN, hence the ⚡.",3,6761.7
 2018-07-08,0.0,0.4404,  Inb4 someone launches a Bitcoin fork called Next Bitcoin. 😂,1,6707.0
-2018-07-09,0.10322472848788637,0.16195789473684213,"  Sure, others may have ulterior motives. I can only speak for my understanding of Bitcoin and decentralization. Some may think I have ulterior motives also, but those people don't know me.",19,6666.7
+2018-07-09,0.10322472848788639,0.1619578947368421, Because it's always going to be quicker and easier than Bitcoin.,19,6666.7
 2018-07-10,-0.11944444444444446,-0.296,"  Bitcoin price is down, so trading is down and less people are moving coins between exchanges. Couple that with exchanges doing batched transactions and using SegWit leads to transaction volume lower today than last year.",1,6301.5
-2018-07-11,0.2808425925925926,0.48019999999999996,"  LMAO. That's your contribution?
+2018-07-11,0.28084259259259264,0.48019999999999996,"  LMAO. That's your contribution?
 
 Then how about I helped SegWit get activated on Litecoin to clear the FUD and prove that SegWit works fine. That helped Bitcoin get SegWit and now LN. I also point out all the lies, fallacies, and fud from people like you on Twitter.",6,6377.8
 2018-07-12,0.3125,0.4738,"Ready to build Bitcoin apps today?
@@ -189,16 +189,15 @@ Don’t wait another 18 months!
 Visit  today! ",1,6249.0
 2018-07-13,0.20238095238095236,0.4467,It was wonderful to learn from someone who was smart enough to become a billionaire before there was Bitcoin. Thank you for the opportunity Mike. ,2,6220.0
 2018-07-14,-0.08049242424242425,-0.306,"     No, I acknowledge that if the hashrate fluctuates widly like with bcash and other coins, the long diff change time is problematic. Even then, Litecoin is 4x faster. So if it lost 75% of its hashrate, Litecoin would be as annoying as Bitcoin. 10 minute blocks and 2 wk diff change.",4,6250.1
-2018-07-15,0.23285714285714285,0.4320333333333333,By resorting to censorship BTC supporters have already lost both the intellectual arguments and the moral high ground. ,3,6347.2
-2018-07-16,0.34691558441558445,0.285975,"   Calling it fastest without mentioning the centralizing tradeoffs for it is misleading. Calling it The most secure is laughable to be honest. Other than those 2 claims, sure DGB is not a bad alternative to Litecoin and Bitcoin. Learn from Litecoin, don't antagonize the leaders.",4,6729.2
-2018-07-17,0.024342918985776122,0.27851428571428577,   I have talked to  about it. He says it's a possibility but they are focused on Bitcoin for now. But that was a while ago. Maybe  will surprise us like  did!,14,7319.8
+2018-07-15,0.23285714285714285,0.4320333333333333,     Then what's the point. I can claim Litecoin is more secure than Bitcoin then.,3,6347.2
+2018-07-16,0.34691558441558445,0.285975,One of the most well researched and accurate price prediction of Bitcoin and Litecoin. Kudos! 👏 ,4,6729.2
+2018-07-17,0.024342918985776136,0.27851428571428577, It's just a target. I could have said 2 BTC or 0.5 BTC. What matters is a target not exactly how much.,14,7319.8
 2018-07-18,0.8,0.875,"Join us tomorrow night in Seoul for another great Bitcoin Cash meetup.
 Korea loves Cash. Bitcoin Cash.
  ",1,7379.4
-2018-07-19,0.11666666666666665,0.3548,"If one reads the Bitcoin defining white paper, and is honest with one’s self, it is clear that it is describing BCH, not BTC. 
-",2,7473.5
-2018-07-20,0.17851506132756134,0.4344166666666667,   I think LTC is more oversold so has more upside than BTC right now.,6,7333.1
-2018-07-21,0.0,-0.031450000000000006," To support the revolutionary #LightningNetwork, we took the initialtive and upgraded our #Bitcoin/#Litecoin wallets to…",2,7403.3
+2018-07-19,0.11666666666666665,0.3548, Don't need to sell LTC. Just buy BTC with fiat if you can.,2,7473.5
+2018-07-20,0.17851506132756134,0.4344166666666667,"  It's opportunity cost because one could have mined other coins that may be worth more. I didn't mine a lot of coins back then. LTC mining was quite popular. Most of my coins were bought on btc-e. And I didn't have that many coins. Like I've said, LTC was a small % of my wealth.",6,7333.1
+2018-07-21,0.0,-0.031450000000000006,  Where did you read that I'm defending him because I found out about BTC from him? SMH,2,7403.3
 2018-07-22,0.0625,0.47985,"     Don't be dumb and change history. When Litecoin was created, there weren't even ASICs for Bitcoin.",2,7400.5
 2018-07-23,1.0,0.6369,"If you think Bitcoin Core has the best developers, you aren’t paying attention. #bchforeveryone ",1,7719.8
 2018-07-24,0.13579545454545455,0.63075,"Join me in 3 hours for a live stream with  to discuss #BitcoinCash and everything else related to bringing more economic freedom to the world.
@@ -211,17 +210,15 @@ Korea loves Cash. Bitcoin Cash.
 BTC has changed and is no longer bitcoin. ",1,8246.4
 2018-07-29,0.0,0.0,"BTC is Lightning Coin. 
 BCH is Satoshi Coin.",1,8221.0
-2018-07-30,0.08294270833333334,0.39635,"Bitmain net profit in Q1 2018: $1.1B
+2018-07-30,0.08294270833333334,0.39635,"Met the HTC Exodus team last week and was really excited to hear the phone will support LTC and Lightning Network on Litecoin natively! I will be an advisor as I see having a secure crypto phone that makes LN simple is needed for mass adoption.
 
-Total value of all BTC mined in Q1 2018: ~$1.3B 😮
-($8000*12.5*144*90)
-
-Of course, Bitmain makes other miners like LTC miners, but still! This is zero sum. Mining rewards are split between miners and manufacturers. 🤔
-
-",4,8179.6
-2018-08-02,0.3480952380952382,0.4139, This project  looks very promising.  You'll be able to trade $LTC and $BTC via atomic swaps through the Lightn…,3,7535.2
-2018-08-03,0.425,0.51315,"Consider the fact that BTC supporters are opposed to the use case laid out in the very title of the white paper that defines what Bitcoin is. 
-BCH is Bitcoin. ",2,7420.0
+P.S. No, they will not remove BTC. ",4,8179.6
+2018-07-31,0.20625,0.5838,"I'm sorry to say that I was fooled by the #FakeNews about XRP addresses being freezable. 
+Thank you  for setting the record straight,  and for being one of the most interesting people in crypto. 
+Go Ripple! ",1,7730.6
+2018-08-02,0.34809523809523807,0.4139,"Bitcoin Cash just processed more transactions in a single day than BTC ever has, and the fees stayed at a fraction of a penny. 
+BCH is a peer to peer electronic cash system. BTC is not. ",3,7535.2
+2018-08-03,0.425,0.51315, Completed a successful test of Submarine Swap on-chain LTC to off-chain BTC:  - worked on the firs…,2,7420.0
 2018-08-04,0.175,0.7506,"Satoshi Nakamoto, Bitcoin's inventor left the project in Gavin's hands.
 Gavin is a true Hero of Bitcoin.
 #BitcoinCash ",1,7013.2
@@ -231,8 +228,8 @@ Try it today at  because Bitcoin was meant to be Cash. ",1,6941.3
 ",1,6279.2
 2018-08-10,0.11200000000000002,0.7906,"We need a currency that is reliable month after month,  year after year.  BTC isn’t that.  BCH fees are consistently about 1/5th of a penny.  The average BTC fees last year exceeded $50 per tx, while BTC developers cheered that the high fees were a success. ",1,6146.8
 2018-08-11,0.1711309523809524,0.44075000000000003, I successfully tested a BTC to LTC submarine swap to buy a very special little pixel on  - LTC has…,2,6232.7
-2018-08-12,0.3345238095238095,0.5741333333333333,"BTC 18 months ago and still Today:  ""LN is closer than you think"" 
-BCH Today: Bitcoin Cash transactions are lightning fast, tokens and smart contracts are ready with hundreds already in circulation thanks to  Start building today at  ",3,6313.9
+2018-08-12,0.3345238095238095,0.5741333333333333,"LN with atomic swap makes Litecoin effectively Bitcoin's sidechain, but with much better security via decentralized PoW mining compared to federated/merge mining of regular sidechains. Value can move across chains seamlessly to take advantage of LTC's faster/cheaper onchain txns. ",3,6313.9
+2018-08-13,-0.05,0.296,The long term price of a crypto currency is a function of its usefulness as a currency. ,1,6251.9
 2018-08-14,0.0,0.0,"If you follow the herd, you're loading up on Bitcoin (BTC).
 
 If you think for yourself, you're loading up on Bitcoin (BCH).",1,6189.0
@@ -243,6 +240,8 @@ The truth is undeniable: The smart money is backing Bitcoin Cash. ",1,6314.0
 Nope, it’s the awesome office of our #BitcoinCash supporting friends at . The grand opening is August 25th and they are expecting over 3,000 people to attend!  ",1,6391.2
 2018-08-19,0.2,-0.34,"Those who buy BTC while thinking that it is Bitcoin are making a mistake.  The real Bitcoin is BCH, Bitcoin Cash. 
 ",1,6485.1
+2018-08-20,0.24545454545454545,0.0,"Old laws are rarely able to resist new technologies. 
+#cryptocurrencies",1,6255.9
 2018-08-21,0.43333333333333335,0.4404, Hello Word. We’re BlockFuse &amp; we make $LTC and $BTC app development easy. How? Our open-source platform CoinMesh automates L…,1,6479.1
 2018-08-22,0.11428571428571428,-0.34,"In the USA it is currently illegal to use your 1st amendment right to share plans about your 2nd amendment right. That's why  is offering matching funds in #BitcoinCash for .  Learn more at: 
 #GunControl #GunControlNow #2a #2ndAmendment ",1,6354.9
@@ -251,12 +250,9 @@ Nope, it’s the awesome office of our #BitcoinCash supporting friends at . The 
 
 If you had a good l…",2,6708.4
 2018-08-27,0.2,0.4168," ""It is thus reasonable to conclude that Bitcoin Cash will face a never ending threat where its community members threatens…",1,6909.5
-2018-08-28,0.33459595959595956,0.3374333333333333,"Dropping BTC in favor of BCH is a growing trend among business that actually want to use Bitcoin as a peer to peer electronic cash system.   and  are just two of many more to come.
-",3,7079.7
-2018-08-29,0.05925925925925926,0.1556," You can now buy Bitcoin, Ethereum, and Litecoin on Yahoo Finance.
-
-THE VIRUS IS SPREADING 🚀",3,7045.7
-2018-08-30,0.13939393939393938,-0.042833333333333334, Pay From #Bitcoin Mainnet to Lightning and Back: Submarine Swaps Are Now Live  #blockchain #Lig…,3,6994.7
+2018-08-28,0.33459595959595956,0.3374333333333333, 'Bitcoin Jesus' aka  explains why #BitcoinCash is a better investment than #bitcoin ,3,7079.7
+2018-08-29,0.05925925925925926,0.1556,Previously BTC was the only Bitcoin and we all wanted it to succeed. It was then taken over by censorship and manipulation. Most of the people that saw through that are now on BCH.,3,7045.7
+2018-08-30,0.13939393939393938,-0.042833333333333334,A cat photo is one of the favorite arguments of BTC supporter against Bitcoin Cash being Bitcoin.  Here is a real argument using facts and logic that Bitcoin is BCH:  ,3,6994.7
 2018-09-01,-0.023809523809523808,0.0,"Last year BTC could only process a single transaction for $50.  
 Today BCH is processing 35,000 transactions for $50.  
 #StressTestBCH",1,7197.5
@@ -267,9 +263,7 @@ Today BCH is processing 35,000 transactions for $50.
 2018-09-06,0.5,0.4404," In our latest video  debates #Bitcoin and #BitcoinCash with two #BTC and blockstream supporters.
 
 Watch the debat…",1,6515.6
-2018-09-07,0.10034090909090909,0.283875," I have a new SeekingAlpha article out: Litecoin: Why I like it. #BTC #Bitcoin #LTC #Litecoin
-
-",4,6404.1
+2018-09-07,0.10034090909090909,0.283875,“Bitcoin Cash is literally just Bitcoin but sticking to the original design of on-chain scaling instead of needless segwit/LN boondoggle.” -  ,4,6404.1
 2018-09-09,0.0,0.0," The  owners are set to launch  this November and take cryptocurrency mainstream.
 
 #Litecoin #Bitcoin
@@ -284,21 +278,17 @@ Very disappointed that my talk on #blockchaincruise was trolled before I even go
 2018-09-13,0.0,0.0,I believe that Bitcoin should strive to be P2P electronic cash for the world as soon as possible through onchain scaling.,1,6475.6
 2018-09-14,0.16,0.0," We've implemented #Litecoin in #libbitcoin. Libbitcoin gives the Litecoin community:
 - A high performance blockchain query…",1,6485.0
-2018-09-16,-0.15625,-0.259,"   Hodl was coined by a person on bitcointalk that refused to sell when the market was crashing. He would hodl through it. I took that to mean don't sell when the market is crashing because it will recover.
-
-No where is hodl defined as never sell no matter what.",2,6498.5
+2018-09-16,-0.15625,-0.259,"BCH is a peer to peer electronic cash system.
+BTC is not. ",2,6498.5
 2018-09-17,0.25000000000000006,0.8356,I’m in HK telling UBS executives the miracle of #BItcoinCash.  Send them a small tip to show them how amazing BCH is! bitcoincash:qpmktdpkjc5ysv9c8fkxzz02szgn04aqmstc0yq9qa ,1,6254.2
 2018-09-18,-0.07777777777777779,0.3536,"4/ Finally, a bit about hodling. The term came from a bitcointalk forum user who refused to sell when the market is crashing. To hodl means to not panic sell when prices are down. Selling during a bull market does not contradict the advice of hodling.",1,6342.8
 2018-09-19,0.0,0.3818," 1M+ Merchants Can Now Accept #Litecoin Payments Via .
 
  #Bitcoin
 ",1,6390.9
-2018-09-20,0.18281593406593405,0.32511999999999996,"4/ Litecoin is supported by 9+ payment processors: Aliant Payment, BTCPay, Coinbase, CoinGate, CoinPayments, Globee, GoCoin LTCPay, and TravelbyBit. This makes it extremely easy for merchants to accept LTC. There are too many LTC merchants to count! #PayWithLitecoin",5,6500.5
-2018-09-23,0.1375,0.7515000000000001,"Thanks to  &amp;  for getting Litecoin support added to RaspiBlitz.👏
-
-It was extremely simple getting it running on Litecoin LN. I then promptly made my mark on  😀
-
-Try out #RaspiBlitz on LTC &amp; BTC for yourself!  ",2,6710.0
+2018-09-20,0.18281593406593405,0.32512,"4/ Litecoin is supported by 9+ payment processors: Aliant Payment, BTCPay, Coinbase, CoinGate, CoinPayments, Globee, GoCoin LTCPay, and TravelbyBit. This makes it extremely easy for merchants to accept LTC. There are too many LTC merchants to count! #PayWithLitecoin",5,6500.5
+2018-09-23,0.1375,0.7515000000000001,"""I sincerely believe, despite the current price ratio that BCH has a much brighter future than BTC"" 
+",2,6710.0
 2018-09-24,0.45,-0.0836,", , and  are all scammers says the BTC maximalist to the sound of applause from the audience:
 
 This nonsense is why everyone should be even more bullish for BCH. ",1,6585.0
@@ -310,14 +300,10 @@ This nonsense is why everyone should be even more bullish for BCH. ",1,6585.0
 Everyone interested in Bitcoin should watch all of Rick's videos.",1,6635.1
 2018-09-29,0.3333333333333333,0.2732,"While the SEC is busy trying to persecute  for being one of the USA's best entrepreneurs, anyone can buy citizenship from a sane country with #BitcoinCash today.  
  #Tesla #SpaceX ",1,6604.6
-2018-10-04,-0.00625,0.129125," Crypto exchange ErisX will provide spot and physical futures exchange for #bitcoin, #bitcoincash, #litecoin, and #ethereum.…",4,6580.1
-2018-10-05,0.1640625,0.5576000000000001,"Soulja Boy's Bitcoin song also mentions he has Litecoin. 😲
-
-
-
-It's happening!!!  👊 ",4,6644.7
-2018-10-06,0.175,-0.022125000000000006," Stop the bullying!  
-#bitcoin #BitcoinCash #litecoin #LightningNetwork #crypto #cryptocurrency #altco…",4,6592.0
+2018-10-04,-0.00625,0.129125," The long awaited debate videos are finally here. 👏
+ debated  on all things #Bitcoin #BitcoinCash #Lit…",4,6580.1
+2018-10-05,0.1640625,0.5576," Hey  since you are so eager to know how many shops are already accepting Bitcoin  payments (""ace"" Q t…",4,6644.7
+2018-10-06,0.175,-0.022125000000000006,"1/ On-chain Bitcoin and Litecoin payments are not peer-to-peer. Payments are sent from sender to miners, who record it on a distributed ledger. The recipient receives the payment when it's recorded. BUT, this is facilitated by a p2p network where transactions are broadcasted.",4,6592.0
 2018-10-08,-0.037500000000000006,-0.5574,"If you are still building your product on top of BTC, you are guaranteeing that your customers will have a horrible user experience the next time the BTC blocks become full.",1,6673.2
 2018-10-09,0.04545454545454545,-0.09106666666666667, Bitcoin Core 0.17.0 Is Released: Here’s What’s New ,3,6663.0
 2018-10-10,0.0,0.0,"The #BitcoinCash #BCHDEVCON starts today in San Francisco as part of #SFBlockchainWeek.  
@@ -330,9 +316,12 @@ It's happening!!!  👊 ",4,6644.7
 2018-10-16,-0.06473214285714285,0.8539,"Ever since MtGox announced Litecoin support in 2013 and failed to deliver, I've been on a mission to get LTC added to exchanges to help increase liquidity.
 
 With the launch of LTC on Gemini today, every single major Bitcoin exchange supports Litecoin. Mission accomplished! 🚀🌕 ",1,6754.1
-2018-10-21,0.25,0.1692,"Bitcoin is cash for the world.
-#BitcoinCash 
-",2,6591.6
+2018-10-17,0.125,-0.7718,"It’s OK to have been mistaken.
+
+It’s not OK to pretend you weren’t.
+
+Full blocks have been a disaster for the world wide adoption of crypto currency.",1,6737.1
+2018-10-21,0.25,0.1692," Bitcoin [BTC], Ethereum, Litecoin and more accepted as payment by Marks Jewelers ",2,6591.6
 2018-10-22,0.0,0.0,"Inflation, 2018.
 
 Venezuela: 200,000%
@@ -346,12 +335,12 @@ Pakistan: 5.1%
 Mexico: 4.9%
 Brazil: 4.5%
 Bitcoin Cash 4.2%",2,6567.2
-2018-10-23,0.1234259259259259,-0.25706666666666667,"This kind of thing previously existed for BTC until merchant adoption was intentionally destroyed.  Now it exists for the real Bitcoin, #BitcoinCash
-
-Marco Coino by Coinline  ",3,6550.0
+2018-10-23,0.1234259259259259,-0.25706666666666667," “The reason dark markets and silkroad used bitcoin in the first place is because bitcoin is good money,” says ⁦⁩…",3,6550.0
 2018-10-24,0.0,0.4404,"The version of Bitcoin described in the Bitcoin white paper has the strongest claim to the name Bitcoin, and that is #BitcoinCash.
  ",1,6554.1
-2018-10-25,0.08090277777777778,0.15785,BTC is a paper tiger waiting to be shreded by the BCH honey badger. ,2,6528.1
+2018-10-25,0.08090277777777778,0.15785,"Bitcoin, Ethereum, and Litecoin are the BELlweather cryptos. They are the only coins that are traded on every major crypto exchanges and can be stored on every hardware wallet.
+
+Easily buying and securely storing other coins is really a PITA. 😂",2,6528.1
 2018-10-31,0.12055555555555557,-0.1161666666666667,"High fees and full blocks disenfranchise those who need Bitcoin most.  
 
 BCH is peer to peer electronic cash for the world. 
@@ -383,6 +372,8 @@ Karma's a BCH. 😂",2,6479.6
 CC     #BitcoinCash #Brexit ",3,5753.4
 2018-11-20,0.0,0.0,Current state of #BitcoinCash ,1,4600.1
 2018-11-22,0.479047619047619,0.45045,2/ It's trading off some centralization for network stability and reliability. Satoshi also used checkpoints in Bitcoin in the beginning. Though one can say that it is similar to the idea of UASF as users can decide whether or not to run or upgrade to the latest checkpoints.,2,4392.4
+2018-11-25,0.255,-0.2263,"Adoption in commerce is fundamental to crypto currency adoption.
+Full blocks and high fees drive that adoption away. ",1,4087.8
 2018-11-26,0.0963392857142857,0.5461,"This is the right question to ask, and the answer is a huge YES!  
 Full blocks with the high fees and horrible user experience they cause have made most of the early BItcoin supporters start building on things other than BTC. 
 For me, that means #Bitcoincash ",1,3858.0
@@ -391,6 +382,7 @@ For me, that means #Bitcoincash ",1,3858.0
 
 Bitcoin Cash believes that Bitcoin's goal is to become a global currency.",2,3901.2
 2018-12-04,-0.1972222222222222,0.1426,"I have no problem with lightning network, side chains, or anything else other than the idiotic economic formula that BTC supporters are still espousing. ",1,3981.9
+2018-12-05,0.6,0.6369,Encryption and crypto currencies enable non-state actors the ability to resist superpowers effectively. ,1,3765.3
 2018-12-06,0.1,0.3612,"As announced at  today, you can now purchase the  crypto phone with Litecoin. It costs a fixed 19.84 LTC. #PayWithLitecoin #BigBrother #Bitcoin 😀 ",1,3531.3
 2018-12-10,0.07878787878787878,0.0," Let's start a new #Bitcoin cultural tradition.
 
@@ -413,17 +405,24 @@ Weekly news update:
 2018-12-22,0.0,0.7579,"Bitcoin Cash is a civilization-changing technology which will dramatically increase human freedom and prosperity.
 
 ",1,4135.0
-2018-12-23,0.0,0.20095," Lightning Wallet  adds Litecoin Support ⚡️
- #ltc #litecoin #btc #bitcoin #crypto #cryptocurrency 
-
-h…",2,4075.7
+2018-12-23,0.0,0.20095," Global adoption is happening! #Crypto #Bitcoin #Litecoin #Ethereum $BTC $LTC $ETH 
+",2,4075.7
 2018-12-24,0.4666666666666666,0.9198,"I wish anything that brings more economic freedom to the world good luck. 
 #BitcoinCash #ETHEREUM #DASH #monero #zcash #zcoin #cryptocurrency ",1,4145.2
 2018-12-25,0.0,0.3382, Merry Christmas from ! $BTC $LTC $XMR $ETH 🦁🐔🐼🎄🔥 ,1,3909.7
+2018-12-29,0.04,-0.1761,"Groups that often lobby against legal cryptocurrency use: 
+
+* Banks *
+* Central Banks * 
+* Central Governments *
+
+The same ones that stand to lose money.  
+
+It’s almost like central banking is just a profit generating scam.",1,3887.0
 2018-12-30,0.0,-0.3412,"""only possible with Bitcoin.""  
 That's tribalism, not thoughtfulness. ",1,3978.3
 2019-01-03,0.3333333333333333,0.7896," Happy 10th Birthday #Bitcoin! ""A Million Dreams"" for what you'll bring in the next ten!   …",1,3923.2
-2019-01-05,0.3125,0.61415," ltcd is now up to date with btcd.  This includes neutrino support for lnd.  S/O to ,  and …",2,3911.0
+2019-01-05,0.3125,0.61415," Only Bitcoin and Litecoin! That's good! In Asia, Litecoin is always the best altcoin; or people don't think Litecoin is a…",2,3911.0
 2019-01-06,0.0625,0.24980000000000002,"In the next episode of  podcast, we will talk more about Bitcoin Extremism versus Bitcoin Maximalism.",3,4171.5
 2019-01-07,0.0,0.0,Physically settled Bitcoin Cash futures are coming! ,1,4113.9
 2019-01-08,0.10714285714285714,0.5423, In stocks there are certain tickers and indices that are bellwethers. I think that $LTCBTC may play the same role in crytpo.,1,4100.0
@@ -449,6 +448,8 @@ qpxpvte6zxefw2dxsmrxlctkrz9vylz7autulfar8j
 I am now focused on making Litecoin more fungible by adding Confidential Transactions. 🚀",2,3501.9
 2019-02-02,0.0,0.0," Germany’s Second Largest Stock Exchange  Launches Bitcoin, Litecoin, Ethereum &amp; XRP Trading.
 #cryptocur…",1,3564.3
+2019-02-03,0.7,0.3182,"Competition among crypto currencies is a good thing.
+Censorship, sock puppets and lawsuits are not.",1,3501.7
 2019-02-04,-0.5777777777777778,-0.7906,The block size limit will go down in history as one of the worst things to ever happen to Bitcoin.,1,3490.5
 2019-02-05,0.3020833333333333,0.2515," EXCLUSIVE: Google adds support for bitcoin, ethereum, litecoin, zcash, dash, bitcoin cash, ethereum classic and dogecoin: ht…",2,3512.6
 2019-02-07,0.75,0.7506,"For #ChineseNewYear be sure to give out #BitcoinCash using our awesome tipping tool from 
@@ -459,17 +460,19 @@ Live every Friday at 5PM JST.
 ",1,3724.0
 2019-02-10,0.2,0.0,"The Bitcoin Cash camp wants it to be peer to peer money for the world.
 ",1,3746.3
-2019-02-11,0.014393939393939391,0.6376,"New study shows that Bitcoin Cash ""outperforms everyone else in Reddit enthusiasm during a bear market, with a community that’s clearly passionate and devoted to global adoption.""
- ",2,3681.1
-2019-02-12,0.08903061224489796,0.43445, Craig S. Wright is a proven serial forger of documents claiming that he is the inventor of Bitcoin. He has been repeatedly c…,2,3694.2
+2019-02-11,0.014393939393939391,0.6376,  He said 1000 businesses and it was about accepting Bitcoin LN.,2,3681.1
+2019-02-12,0.08903061224489796,0.43445,"If you enjoy censorship and having dissenting voices silenced, then BTC is the right crypto for you.
+
+If you enjoy liberty, financial sovereignty, and open discussions, then Bitcoin Cash or just about anything other than BTC is the right crypto for you.",2,3694.2
 2019-02-13,0.0,0.0," The Bernie Madoff of #Bitcoin, Craig S. Wright, who keeps forging documents to make it seem that he is Bitcoin's pseudonymou…",1,3666.1
 2019-02-14,0.4000000000000001,0.8176,"I'm claiming my free 1000  tokens.
 Please send them to my  from 
 simpleledger:qpjglxrtvrhjd09zaudqurgtwl7433skpyz0yxv94g
 Thanks to  anyone can now issue their own BCH based tokens. #BitcoinCash ",1,3656.7
-2019-02-17,0.14625,0.5891, Introducing 1 oz Litecoin Silver Rounds and I only Accept #Litecoin #Bitcoin #cryptos for payment. $2.00 donated to Lite…,2,3734.5
+2019-02-17,0.14625,0.5891,   I don't know the details. My guess is that Bitcoin fees has dropped quite a bit since the highs and supporting LTC was not high priority anymore. I don't know if they will still do this in the future. Best to ask them.  ,2,3734.5
 2019-02-20,0.29500000000000004,0.872,"It’s amazing how many BTC maximalists don’t even know that gold has a huge amount of industrial uses completely separate from just being a store of value.  In fact, it’s those other uses that enable gold to be used as a store of value.",1,4055.0
-2019-02-23,0.12166666666666667,0.12700000000000003,   Whoever owns the early BTC deserves a Nobel prize in delayed gratification,2,4211.7
+2019-02-23,0.12166666666666667,0.12700000000000003,"“Bitcoin will be just fine if there are never more than 10,000 big, beefy, full nodes forming the backbone of the network, but will be NOTHING if we don't support tens of millions of lightweight SPV devices.” - ",2,4211.7
+2019-02-25,0.25,0.8221,"I'm honored to help drive mass adoption of #cryptocurrencies in Australia by teaming up with #LivenPay as an official advisor. What will their top 10 Android app with 400,000 registered users and 20,000 venues do next?  Stay tuned! ",1,3921.8
 2019-02-26,0.12063492063492061,0.5106,"Strong financial privacy has arrived for #BitcoinCash. 
 $25,000 in BCH was shuffled in this single transaction today: 
 Try it today at  ",1,3896.8
@@ -479,12 +482,14 @@ People who are just hoping to make a quick buck love BTC while hating every othe
 2019-03-03,0.09999999999999999,-0.4173,"The greatest weapon against sinister forces is a well-educated populace.
 Now ask yourself why are /r/Bitcoin, , and  so heavily censored.",1,3884.8
 2019-03-05,0.13636363636363635,-0.3818," Venezuelan Government Supports Bitcoin and Litecoin Payments, Launches New Crypto Remittance Platform Amidst Crisis | The…",1,3951.6
+2019-03-07,-0.05625000000000001,0.6761,"Coinbase has done more to drive crypto currency adoption than just about any other company.  We should be grateful despite a few poor decisions along the way.  
+Don’t #DeleteCoinbase",1,3964.7
 2019-03-09,0.00984848484848485,-0.148," What's this? A completely new site?
 
 #litecoin #bitcoin #flappening",2,4017.3
 2019-03-13,0.0,0.3182,Altcoins became BTC’s layer two scaling solution.,1,3947.9
 2019-03-15,0.2857142857142857,0.5271," Top cryptocurrencies adopted at #ATM's in February 2019: #Litecoin #LTC +120/ 4.3%, #Bitcoin #BTC +114 / 2.7%, #Ether #ET…",2,4003.1
-2019-03-20,0.2,0.21075," Announcing the alpha release of Lightning Loop, a non-custodial service that makes it easier to receive #bitcoin on Lightnin…",2,4127.2
+2019-03-20,0.2,0.21075,"“Bitcoin is primarily an economics/social project, rather than a software project.”  - ",2,4127.2
 2019-03-21,0.0,0.0, #BitcoinTwitter and #CryptoTwitter! Square is hiring 3-4 crypto engineers and 1 designer to work full-time on open source contrib…,1,4044.8
 2019-03-26,0.0,0.6124,"If you don’t like the message being put forth by , then you don’t like Bitcoin.
 
@@ -502,6 +507,9 @@ BTC is not. ",1,4092.6
 2019-03-31,0.25,0.4336,"Japan now has more Bitcoin Cash accepting physical shops than BTC.
 
 ",1,4167.6
+2019-04-02,0.6,0.6808,"Nice to see all the progress  has made.
+Vote for their listing on  here: 
+#aXpire #blockchain #cryptocurrency ",1,4927.1
 2019-04-03,0.16,0.4215,"Fees are high on BTC because they want high fees.
 That’s why I recommend #BitcoinCash ",1,4978.0
 2019-04-04,0.019285714285714295,0.4009,"Litecoin a glorified testnet?
@@ -533,27 +541,31 @@ Bitcoin Core developers are ignorant of economics.
 2019-04-22,0.075,0.2202,"Bitcoin Cash supporters never left Bitcoin.
 BCH is peer to peer electronic cash.
 BTC left Bitcoin. ",2,5417.8
-2019-04-23,0.38095238095238093,0.37989999999999996, It’s only availabe for paper trading on ThinkOrSwim right now. Search for CXERX to find both BTC and LTC.,3,5550.9
+2019-04-23,0.38095238095238093,0.37989999999999996," Venezuela has been used as an example for the perfect use case of Bitcoin for a while now.
+ will be sharing a…",3,5550.9
 2019-04-28,0.09999999999999999,0.5719,"I’ll donate $10,000 worth of the crypto of ’s choice to the charity of his choice if he has the debate.
 My prediction is that he still won’t since the only way his ideology got traction was through the censorship of /r/Bitcoin. It can’t stand up to actual scrutiny. ",1,5486.8
 2019-05-01,0.5,0.0772," Want to learn more about how Bitcoin can work without internet?
 Follow the panel discussion with moderator Elaine Ou and…",1,5629.6
-2019-05-02,0.5,0.49219999999999997,"Join me in London tonight for the Bitcoin Cash Meetup! 
-#BitcoinCash",2,5723.8
+2019-05-02,0.5,0.49219999999999997, Proof-of-Work is the foundation of Bitcoin and we've got an awesome mining panel lined up for #MCC2019 with moderator Le…,2,5723.8
 2019-05-04,0.175,-0.2263,"Bitcoin with intentionally full blocks is digital fool’s gold.
 #DropGold",1,6098.3
 2019-05-05,0.225,-0.5106,"The evidence clearly shows that full blocks were a disaster for BTC adoption.  
 #BitcoinCash ",1,6042.0
 2019-05-06,0.0,0.4019, One of the highlights of #MCC2019 will definitely be the Bitcoin protocol development panel with moderator Katherine Wu…,1,6027.9
+2019-05-08,-0.1,0.0,"""Tokens are to the SEC as 3D-printers are to the ATF, or cryptocurrencies are to the Federal Reserve."" - 
+",1,6201.0
 2019-05-12,0.0,0.0,BTC is Bitcoin extended with censorship and control.,1,6979.9
-2019-05-13,0.20909090909090908,-0.11905,Anyone who buys #Bitcoin instead of #BitcoinCash thinking that it’s a peer to peer electronic cash system is being deceived. #Consensus2019 ,2,7753.2
+2019-05-13,0.20909090909090908,-0.11905," good times at #mcc2019 - forget IEOs, BYO-toilet 🚽 is the new crypto trend 
+
+in all seriousness, i talked about bitcoin’s uni…",2,7753.2
 2019-05-14,0.0,0.2263, Make an impression with #Bitcoin ,1,7958.3
 2019-05-17,0.07878787878787878,0.128,"A sub company of Japan's publicly traded ANA Airline Group just launched their new token on the #BitcoinCash network.  As a holder, I'll be working directly with them to spread the use of BCH and ACD tokens across #Japan and the world. ",1,7415.4
 2019-05-18,-0.09999999999999999,0.7555,"BTC Average TX Fee: $3.33
 BCH Average TX Fee: $0.00
 
 This is why #BitcoinCash is the future. ",1,7260.0
-2019-05-19,0.6,0.7258, we are happy to announce that from today you can send and receive #bitcoin &amp; #litecoin on #WhatsApp via  !…,2,8189.5
+2019-05-19,0.6,0.7258,We just finished helping spread the message of #BitcoinCash and the benefits of the economic freedom it brings to the people of #Moscow. ,2,8189.5
 2019-05-20,0.5,0.0,"Show the people managing the startup incubator in Slovenia the magic of #BitcoinCash and the power of our community.
 qq83jllapjelr2wqx6q0w63zvv6hxagtecvw8lqahg ",1,7985.0
 2019-05-21,0.0,0.5093," is a massive improvement over the competition!
@@ -593,9 +605,7 @@ Try today at ",1,7692.8
 #Bitcoin BTC was overrun by a bunch of censorship supporting economically ignorant state worshipers. ",1,9095.9
 2019-06-19,0.0,0.4389,"Japan’s #1 Luxury watch and jewelry shop Gem Castle Yukizaki ( ) is now accepting #BitcoinCash payments at all 13 locations! #cryptocurrencies 
  ",1,9305.9
-2019-06-20,0.23333333333333334,0.614,"The goal of government schools isn’t to educate, but rather to produce obedient citizens who will serve the politicians loyally.
-
-The same is true for censored media platforms. #Bitcoin #YouTube #Twitter #Facebook",2,9557.1
+2019-06-20,0.23333333333333334,0.614,"Thanks to , #BitcoinCash is far more private than most other crypto currencies.",2,9557.1
 2019-06-23,-0.26666666666666666,-0.3612, I'm finally realizing that these vicious crypto-wars on Twitter are really driven by BTC hodlers who are against any an…,1,10916.0
 2019-06-26,0.1,0.4215,"The state of #Bitcoin2019 is that #BitcoinCash transactions are far
 #Faster
@@ -609,16 +619,18 @@ Proof: ",1,12876.0
 A dip, ""omg, it's all crushing to 0, let me get out. ""
 
 Rallies again.…",1,11200.0
-2019-06-29,0.17916666666666667,0.1004,"Many of us are here not because it's easy or because moon / lambo.....
-We want to take part in something that has the potential to better humankind.
-#BitcoinCash",2,11921.0
+2019-06-29,0.17916666666666667,0.1004," Craig Wright, the self-professed inventor of bitcoin, is testifying today in a West Palm Beach federal courtroom about…",2,11921.0
+2019-06-30,0.16666666666666666,0.296,Most people’s investment in a specific #cryptocurrency clouds their judgment in regards to its actual usefulness in commerce.,1,10745.0
 2019-07-01,0.0,0.0,#Bitcoin maximalists are the #AntifaTerrorists of #cryptocurrencies ,1,10639.0
-2019-07-02,0.02416666666666667,-0.05135,"Nouriel Roubini talking about Bitcoin prices at : ""last week, the price of Bitcoin was as high as fourteen hundred... uh, fourteen thousand.""
-
-When you've been saying Bitcoin will die since $58, it's easy to get confused by an order of magnitude difference in price. 😂 ",2,10866.0
+2019-07-02,0.02416666666666667,-0.05135,"Bitcoin Cash is 5th by market cap, but its transaction volume is 2nd.
+",2,10866.0
 2019-07-05,0.125,0.0,#BitcoinCash now can be traded directly through the Swiss Stock Exchange!  ,1,10998.0
 2019-07-07,0.275,0.4215,"The true story of Bitcoin to Bitcoin Cash, and to who Satoshi really turned BTC over to:
 ",1,11486.0
+2019-07-11,0.2,0.0,The #IRS wants to subpoena  and  to see if you have downloaded #cryptocurrency apps. ,1,11340.0
+2019-07-12,0.4,0.0516,"The value of cryptocurrency is set by the free market.
+
+The value of the the USD is set by threats of violence. ",1,11765.0
 2019-07-18,0.39999999999999997,0.4754,"Bitcoin Cash is now far more popular in Japan than the BTC version of Bitcoin for retail establishments: 
 #Olympics",1,10622.0
 2019-07-20,0.15000000000000002,0.2732,"Q: What’s the ONLY cryptocurrency with fast, cheap, reliable, private, permissionless payments, accepted at over 100,000 merchants?
@@ -643,35 +655,26 @@ Of course governments are trying to intentionally disrupt Bitcoin's usefulness i
 2019-08-02,0.3,0.0," Our mission: empower everyone, everywhere to take control of their own money. 
 
 Our next step? Launch a #BitcoinExchange th…",1,10519.0
-2019-08-05,0.29599999999999993,0.05842000000000001,"  It's about sound money. People in many of those countries have to deal with runaway inflation, which erodes all their savings. So being able to move their money to a more sound form of money like Bitcoin and Litecoin is very much needed.",5,11808.0
+2019-08-05,0.296,0.05842000000000001,"   When there's anything ready to be announcement, I will announce them.
+
+There really isn't a fair price for LTC/BTC. How would one even calculate that?",5,11808.0
 2019-08-06,0.2,0.0,Bitcoin Cash is Lightning fast. ,1,11471.2
-2019-08-07,0.07638888888888891,-0.06939999999999998,   What do you mean? We get all the code from Bitcoin. So everything that goes into Bitcoin makes its way into Litecoin. We've never had a lot of our own coders and don't need it. So stories about Litecoin losing 40 devs is just stupid FUD that you fell for.,3,11997.0
+2019-08-07,0.07638888888888891,-0.06939999999999998,   From all Bitcoin developers. This is open source. We merge in all the great work Bitcoin developers work on.,3,11997.0
 2019-08-08,0.0,-0.4278,"   Bitcoin developers “work” on Litecoin because Litecoin developers merge their code/commits into the Litecoin codebase.
 
 Maybe next time you should learn about how open source development works before releasing another FUD video that misinforms your viewers.",1,12060.0
 2019-08-09,0.25,0.0, SegWit adoption is higher on Litecoin than Bitcoin. Here are some reasons why:  by  cc…,1,11893.0
-2019-08-11,-0.05708333333333335,0.11487499999999998,6/ But the code that was released was mostly written in 2018. The interesting thing about GitHub is that it keeps the commit the same in terms of who wrote it and when it was committed to the code base. So Bitcoin developers are credited for their work in the Litecoin code base.,4,11586.0
-2019-08-12,0.08305555555555556,0.4086666666666667,"  There are 2 aspects of security: cost of miner machines protecting the network AND electricity cost to run the machines.
+2019-08-11,-0.05708333333333335,0.114875,"5/ First reason is Litecoin releases lag Bitcoin releases by a few months. So when we do a release, we are releasing code that's been released in Bitcoin months ago.
 
-Being scrypt dominant means that there’s no easy way to get enough machines to attack, so pretty secure. But total cost of all miners about 1/10 of Bitcoin.",3,11404.0
+We actually did release Litecoin Core 0.17.1 May of this year: ",4,11586.0
+2019-08-12,0.08305555555555556,0.4086666666666667,"Since Litecoin blocks are 4 times faster than Bitcoin’s, the network can handle a sudden decrease in hashrate much better.
+
+If 75% of hashrate disappears overnight, Litecoin just acts like Bitcoin for 2 wks (10 mins blks) and then diff retargets and everything is back to normal. ",3,11404.0
 2019-08-13,0.0,0.4588,Bitcoin Cash acceptance is coming to thousands of physical shops in Korea. #MakeBitcoinCashAgain ,1,10904.0
 2019-08-14,0.2020833333333333,0.12209999999999999,Bitcoin Cash destroys the need for Lightning Network. ,2,10067.0
 2019-08-16,0.16666666666666666,0.296,Most people’s personal investment in BTC clouds their judgment in regards to its actual usefulness in commerce. ,1,10366.0
-2019-08-17,0.075,-0.019320000000000004,"What makes Bitcoin unique?
-It’s the only cryptocurrency to ever have INTENTIONALLY full blocks to cause the user experience to become:
-1. Slow
-2. Expensive 
-3. Unreliable 
-
-Bitcoin Cash has the market set the block size, so transactions are
-1. Fast
-2. Cheap
-3. Reliable",5,10228.0
-2019-08-18,0.012916666666666665,-0.20833000000000004," Some are doing it for selfish reasons because they are invested in Bitcoin only and think this is a zero sum game.
-
-Some think that there can only be one sound money due to network effects and want to protect others from investing in scams.
-
-🤷‍♂️",10,10327.0
+2019-08-17,0.075,-0.019319999999999983,"  If I was Satoshi, I wouldn't be able to watch people claim Bitcoin Cash is the real Bitcoin and follows Satoshi's vision. Or watch someone claim to be Satoshi, but then use patents and lawsuits to make his point.",5,10228.0
+2019-08-18,0.012916666666666665,-0.20833000000000004,Who else remembers when the average Bitcoin confirmation time was more than a week? That’s why I switched to Bitcoin Cash. ,10,10327.0
 2019-08-19,0.2333333333333333,0.836,"Here is a good article by  explaining why being dominant in the respective mining algorithm is crucial for the security of the coin.
 
 Hashrate dominance:
@@ -708,13 +711,16 @@ If a cryptocurrency is truly decentralized, governance will come from grassroots
 2019-09-04,-0.020312499999999997,0.09962499999999999," It's not up to me to condone or not condone this. People who see my tweet have likely already made up their minds about bitcoin-com. I'm just calling out the idiocy of calling Bitcoin, Bitcoin Core.",4,10590.0
 2019-09-05,0.25,0.0,"Get paid to trade at  
 #BitcoinCash #ETHEREUM #DASH #Ripple #STELLAR #EOS #TRON ",1,10578.7
-2019-09-06,0.08333333333333333,0.23916666666666667,  Litecoin was forked from Bitcoin. Though it does share the same mining algorithm as Tenebrix.,3,10317.0
-2019-09-09,0.15,0.7283," In an exclusive interview,  shares his vision for how #Bitcoin and #Litecoin can fundamentally challenge gover…",2,10318.0
+2019-09-06,0.08333333333333333,0.23916666666666667,"Institutions are gaining #Crypto exposure by buying the world's first #BitcoinCash exchange-traded product. 
+    ",3,10317.0
+2019-09-09,0.15,0.7283,"I'm a fan of anything that works and I'll use anything that is useful.
+Thank you  for giving #BitcoinCash a try.
+",2,10318.0
 2019-09-10,-0.041666666666666664,0.0,"Bitcoin Cash is digital gold that we can actually send to each other.
 #Consensus #InvestAsia ",1,10122.0
 2019-09-11,0.001041666666666649,-0.04755,"A $50M USD #BitcoinCash Tech Park is in the works! #InvestAsia 
 ",2,10175.0
-2019-09-13,0.1875,0.46615,  That will only slow Bitcoin. It won't stop it.,2,10374.0
+2019-09-13,0.1875,0.46615, We just launched a  campaign for the  REAL Bitcoin wallet! This is a great way for you and your fam…,2,10374.0
 2019-09-14,0.0,-0.1531,  Who said anything about Litecoin stopping Bitcoin?,1,10379.0
 2019-09-15,0.030000000000000006,0.1909,"Gold was used directly as cash until recently.
 Bitcoin was used directly as cash until recently.
@@ -724,8 +730,9 @@ Bitcoin Cash is still used directly as cash.",2,10322.0
 Even those who make less than $2 a day.
 ",1,10301.0
 2019-09-20,-0.024999999999999994,0.3612,#BitcoinCash is so fast it feels like alien technology. #StormArea51 ,1,10198.0
-2019-09-25,0.2105654761904762,0.417225," We’re proud to announce that #crypto trading is here—easily buy and sell #BTC, #LTC, #ETH. Do it all on #SoFiInvest. Learn more h…",4,8474.7
-2019-09-26,0.006249999999999991,0.22033333333333335,There are far more physical shops accepting Bitcoin Cash than any other cryptocurrency. ,3,8103.6
+2019-09-25,0.21056547619047616,0.41722499999999996,"Come meet me tomorrow in #Switzerland to learn about peer to peer electronic cash. #BitcoinCash 
+",4,8474.7
+2019-09-26,0.006249999999999992,0.22033333333333335,"                For a decentralized ststem, security in the end is directly proportion to the marketcap. Once a coin is decentralized enough. I argue that Bitcoin and Litecoin are decentralized enough today. I don't know enough about Nano to say if it is for Nano. Nano has different tradeoffs.",3,8103.6
 2019-09-28,0.0,0.0,"The market is never done deciding.
 #myspace #bitcoin",1,8238.6
 2019-09-29,0.3333333333333333,0.7351,"This super market accepts crypto currencies. 
@@ -746,21 +753,25 @@ This is one of the keys to understanding Bitcoin, proof of work, and decentraliz
   ",2,7883.1
 2019-10-07,0.25,0.0,"Bitcoin Cash is the second most used crypto currency for payments in the world.
 ",1,8227.0
-2019-10-09,-0.23819444444444443,-0.07464999999999997, Not much really to discuss with someone making baseless claims. Just as stupid as saying Blockstream is going to lift the 21M limit of Bitcoin.,2,8607.5
+2019-10-09,-0.23819444444444443,-0.07464999999999997,Even mediocre developers wouldn’t have destroyed a functioning network in favor of a Rube-Goldberg machine that barely even works. And yet that's the path BTC has gone down.  Now Ethereum has the most developer talent in crypto. #Devcon ,2,8607.5
 2019-10-10,0.2,0.2023,"Important information on the recent IRS Bitcoin and cryptocurrency news:
  ",1,8596.0
 2019-10-13,-0.26666666666666666,-0.7096,"Bitcoin Cash is terrifying for Bitcoin maximalists because Bitcoin Cash has the same economic formula that Bitcoin had from 2009 through 2015,  while the thing everyone is still calling Bitcoin today no longer does. 
  ",1,8305.7
-2019-10-14,-0.021666666666666695,0.11752,             You're wrong. Average wait time for Bitcoin is 10 minutes. It doesn't average to 5. That's not how poisson distribution works. At least know what you are talking about.,5,8370.0
+2019-10-14,-0.021666666666666674,0.11752,"  I've given my brother plenty of crap over the years including S2X and this conference, but Bobby doesn't claim to be a Bitcoin maximalist. On the contrary, he's said he loves all the Bitcoin forks. 🤦‍♂️ Don't get me started with that.
+
+So no, I have issue with both of them.",5,8370.0
 2019-10-15,0.15208333333333332,0.06770000000000001,"               Bitcoin blocks are found with a Poisson processs. This means that there is no memory of previous hashing. At any point in time you join this process, it’s always 10 mins on average to find the next block. It’s just like if the the whole mining network wakes up at that time.",2,8191.1
 2019-10-16,-0.125,0.296,"Join me and other #Bitcoin fans in #London tonight at .
 
 ",1,8016.0
 2019-10-19,0.175,-0.204,Paying dividends on the block chain to token holders is one of the most important inventions in the crypto currency ecosystem in the last few years. #LNConf #Bitcoin #stocks ,1,7992.9
-2019-10-20,0.19583333333333333,0.16893333333333335,"    Sure you can. Use r/btc or Twitter or hundreds of other online communities to chat about crypto. No one is forcing you to communicate on r/Bitcoin, but people still do despite the censorship/moderation.",3,8260.6
+2019-10-20,0.19583333333333333,0.16893333333333335," Bitcoin is sound money, Litecoin is lite money, Ether is",3,8260.6
 2019-10-21,0.125,0.0,#BitcoinCash accounted for more retail transactions than every other #Cryptocurrency COMBINED in Australia last month. ,1,8243.9
-2019-10-22,0.175,-0.35015," The newest #blockchain phone from , the #EXODUS1s features full #bitcoin node capabilities and the highest level of #cry…",2,8058.9
-2019-10-23,0.2026736111111111,0.40515,       Correct. We will try to implement this as modular as possible. So we can get easily merge in Bitcoin improvements and also MimbleWimble improvements.,8,7493.7
+2019-10-22,0.175,-0.35015," Altcoin content in r/Bitcoin? 😱
+",2,8058.9
+2019-10-23,0.20267361111111112,0.40515000000000007,"Just a friendly reminder that BTC was crippled for this:
+ ",8,7493.7
 2019-10-25,0.0,-0.9738,"Goldman Sachs, last 20 years:
 
 - $9.6+ billion in fines
@@ -801,9 +812,11 @@ We built Casa Keymaster to protect you against all 13 threats.…",1,8830.0
 BTC is no longer designed to be a peer to peer electronic cash system.
  ",1,8495.8
 2019-11-16,0.4375,0.6369," 2 years ago, I thought SegWit2x was the best path forward for Bitcoin. I‘ve since come to realize that it was extremely dang…",1,8523.5
-2019-11-18,0.05833333333333334,0.353,"  It was Satoshi. Did you not read the articles about that?
+2019-11-18,0.05833333333333334,0.353,"CJ on MW is a lot simpler and easier to use than it is on BTC/LTC.
 
-* Note to crypto journalists. This tweet is a joke. Please do not write articles about this again claiming I think Satoshi donated 50 BTC to Grin. Thanks.",2,8219.5
+1) MW has CT, so all amounts are hidden and there’s no need to decide on a uniform output size.
+
+2) With aggregation in MW, there’s no need to sign the final CJ transaction. So one can't DoS by not to signing.",2,8219.5
 2019-11-19,0.21875,0.5984,The 2nd most supported cryptocurrency in ATMs other than Bitcoin is Litecoin. LTC is supported by more than 2/3 of the 6000 Bitcoin ATMs. ,1,8164.9
 2019-11-20,0.0,0.0,"I just announced a $200M USD Bitcoin Cash Ecosystem Fund at the headquarters of , the world’s largest cryptocurrency wallet. ",1,8126.4
 2019-11-22,0.175,-0.296,The difference is that now BTC has a block size limit.  In the past it effectively had no limit. ,1,7323.0
@@ -826,11 +839,9 @@ My Let's Talk Bitcoin interview about MW and other things: ",1,7350.3
 2019-12-03,0.08522727272727272,-0.20995," ⚡The Bitfinex Lightning Network integration is officially live! 
 You can now deposit and withdraw Bitcoin on Bitfinex via the…",2,7336.0
 2019-12-04,0.2875,0.41100000000000003,The technology and user experience that first made Bitcoin popular is called Bitcoin Cash today.,2,7238.2
-2019-12-05,0.3151176948051948,0.17365000000000003," just hit an all time high in terms of Bitcoin Cash deposited into the system!
+2019-12-05,0.3151176948051948,0.17365000000000003,"I'm glad to see Pieter Wuille's positive reply on why ""Extension Blocks are the only (somewhat) practical way of introducing CT to Bitcoin.""
 
-Any payment method!
-Any country!
-No questions asked! ",2,7440.0
+Actually, this whole reddit thread (linked below) is a worthwhile read if you are interested in Confidential Transactions with EB.  ",2,7440.0
 2019-12-07,0.234375,0.7644, We're excited to announce  as a Sponsor to #Boltathon2! Thank you for giving back to the #Bitcoin community an…,1,7543.2
 2019-12-08,-0.041666666666666664,-0.3777,"It's not clever marketing or stolen momentum that makes a coin valuable. It's the actual usage of the coin. If nobody uses it it's nothing.
 #Ethereum #BitcoinCash",1,7564.6
@@ -838,7 +849,11 @@ No questions asked! ",2,7440.0
 ",1,7254.6
 2019-12-14,0.25,0.4748,"Join me in #Vietnam for our #BitcoinCash meetup this Monday and get some free marketing gifts!
  ",2,7100.8
-2019-12-15,0.055965909090909094,-0.022650000000000003,The next Magical Crypto Conference will be a few days before the Bitcoin block reward halving. That's going to be an exciting week. Who's coming?! #MCC2020 ,2,7152.7
+2019-12-15,0.055965909090909094,-0.022650000000000003,"Don't like something?  Don't buy it.
+Have something you don't like?  Sell it. 
+Not sure what's going on?  
+We'll talk about it on a live stream in 20 minutes: 
+#bitcoin #BitcoinCash #ETH #cryptocurrency #HEX",2,7152.7
 2019-12-17,0.5,0.7964,Just hosted an amazing #BitcoinCash meetup at the  exchange offices in #Saigon. Everyone received a free SLP token #Airdrop via  ,1,6667.1
 2019-12-20,0.3125,0.3654,"That $4M Investment  just lead in  is really starting to pay off!  
 
@@ -854,6 +869,8 @@ an amazing future ahead. ",1,7232.4
 ",1,7287.0
 2019-12-28,0.0,-0.296,"#China is now dominating the permissionless #BitcoinCash trading on 
 #cryptocurrency ",1,7334.4
+2019-12-29,0.20833333333333331,0.4588,"The crypto community should listen to real business people like . 
+Cryptocurrency needs to be so simple that everyone can easily use it to solve real problems. ",1,7417.9
 2019-12-30,0.05000000000000002,0.0, Bitcoin maximalism has caused a general culture rot in the cryptocurrency community. Before maximalism people would see a…,1,7260.9
 2019-12-31,0.16250000000000003,0.8779,Here is just a partial list of the amazing things accomplished by the passionate #BitcoinCash community in 2019. #happynewyear2020 ,1,7208.3
 2020-01-01,0.22916666666666666,0.8393,"Originally Bitcoin’s entire goal was to build a network that would make fiat obsolete. 
@@ -865,13 +882,7 @@ Today most Bitcoin supporters only care about how much fiat its worth while Bitc
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🕳
 ⠀⠀                     Bitcoin
 ⠀⠀",2,7367.5
-2020-01-04,0.15000000000000002,-0.03194999999999998,"Imagine promoting Bitcoin Cash today:
-
-1. Fast 
-2. Reliable
-3. Almost free to use
-4. Can be setup in 30 seconds
-5. Could go up 1000x if it catches on ",2,7369.8
+2020-01-04,0.15000000000000002,-0.03194999999999998, Let's show the world the power of #bitcoin. All donations are going to the Rural Fire Service. 🇦🇺👨‍🚒🚒 #AustraliaBurning…,2,7369.8
 2020-01-05,0.0,0.3182,"Another Bitcoin Cash merchant solution being designed by the  team.
  ",1,7364.6
 2020-01-06,0.25,0.0,I first bought Bitcoin Cash in January of 2011. ,1,7757.9
@@ -892,24 +903,25 @@ Mind of Bitcoin Cash Fan: ""I need to help build tools to enable a peer to peer 
 2020-01-17,0.0,0.5927,"Hmm, but the question on everyone's mind is whether or not this is Pro-BTC? 🤔😂 ",1,8875.4
 2020-01-18,0.0,0.0," Not your keys, not your Bitcoin
 😏",1,8891.5
-2020-01-20,0.0,0.2565,"BCH adoption never stops! You can now withdraw cash from your Bitcoin Cash at over 13,000 ATM machines in #Korea! 
- ",1,8638.2
-2020-01-23,0.16309523809523813,-0.2799," But there’s not much profit to do that as difficulty is in line with BTC. Unless they reverse transactions. With this, they just need to mine BCH normally and make 14% more.",2,8403.5
+2020-01-20,0.0,0.25325, The numerous sites I created had over a billion users. I know what it takes to bring a billion users to crypto and I’ll have…,2,8638.2
+2020-01-23,0.16309523809523813,-0.2799,"If this soft fork goes through, it will be very destabilizing because there’s incentive for a large BTC miner to 51% attack this. They can switch to mining BCH and proceed to mine 11 blocks in a row. They get all the BCH, which is at least 14% more profitable than mining BTC.",2,8403.5
 2020-01-24,0.07083333333333333,0.2732,"Easy: Having BTC miners pay ~95% of the money to fund BCH protocol development.
 
 Hard:  Figuring out who gets to spend the money, and on what. 
 
 ",1,8447.1
-2020-01-26,0.0,0.42885,    I did not hire Bitcoin Ben.,2,8621.6
-2020-02-02,0.24930555555555553,0.4352333333333333," Wow when you hashtag cryptocurrencies they have symbols now!
+2020-01-26,0.0,0.42885,"Don’t like Amazon? 
+       - Don’t shop there
+Don’t like McDonald’s?
+       - Don’t eat there 
+Don’t like Walmart? 
+       - Don’t shop there
+Don’t like Bitcoin Cash
+       - Don’t use it.
 
-#Bitcoin
-
-#BitcoinCash💩
-
-#Litecoin🐔
-
-#Ripple😭",3,9353.1
+Don’t like government? 
+       Pay them or go to prison.",2,8621.6
+2020-02-02,0.24930555555555553,0.4352333333333333,"Preparing to sue everyone over patents is the exact definition of crony capitalism and one of the major reasons I want nothing to do with Craig, Calvin or #BitcoinSV ",3,9353.1
 2020-02-04,0.0,-0.534,"There is no attack on BTC and never has been.  
 
 The attack came from those who used censorship to fool the world into thinking that the current version of BTC is Bitcoin.
@@ -939,17 +951,17 @@ Tickets:  ",1,10183.0
 #Huawei",1,9592.2
 2020-02-20,0.30000000000000004,0.0,"Segwit transactions ARE unfairly cheap.
 If you don’t understand that, you are an economic illiterate, or don’t understand how Bitcoin works. ",1,9608.1
+2020-02-21,-0.08333333333333333,-0.4019,"With the government starting to prosecute crypto privacy tools, remember what Wei Dai said on the subject: ",1,9693.5
 2020-02-22,0.1392857142857143,0.128,"I owned a pile of Bitcoin, and   I had more financial and philosophical motivation to see BTC succeed than just about any other human being on the planet.  The censorship and full block policy by Core destroyed BTC’s first mover advantage.  #BitcoinCash",1,9662.4
 2020-02-23,-0.07142857142857142,-0.5859,Limiting Bitcoin's block size also limited its censorship resistance.,1,9985.0
 2020-02-25,0.625,0.4199,"#Bitcoin, #Litecoin Ł, and #Dogecoin Đ was on the latest episode of . Mass adoption here we come! 😀 ",1,9327.5
 2020-02-27,0.05952380952380953,0.3818,"Bitcoin maximalists only hold a single coin and want to pump it.
 
 I hold dozens of coins and just want crypto to undermine the power of governments to control peaceful people.",1,8825.8
-2020-02-28,0.045416666666666675,-0.12888," You can also easily run a node. Just download Bitcoin Core or Litecoin Core node software and run it. It just an application with a GUI.
-
-You don't have to trust someone else to tell you, especially someone who might have colluded with the person that sold you the counterfeit!",5,8728.0
+2020-02-28,0.045416666666666675,-0.12888, Double spends and orphaned blocks are all counterfeit bitcoins.,5,8728.0
 2020-02-29,0.3444444444444444,0.296," Bitcoin can be counterfeited but running your own node makes it easy to detect and reject counterfeits like double spends, orphaned blocks, invalid transactions, invalid forks, etc.",1,8557.3
 2020-03-03,0.19375,-0.2287,          Litecoin is a decentralized cryptocurrency like Bitcoin. Coins have to be mined. There's no premine and no ICO unlike most of the other coins. Being the founder afforded me no extra privilege to get free coins or discount on coins. And I can't print coins for myself.,1,8791.1
+2020-03-04,0.2857142857142857,0.0,The people’s right to keep and bear cryptocurrency shall not be infringed.,1,8788.6
 2020-03-09,-0.125,0.128,"#BitcoinCash and other #Crypto can help stop #COVID2019 
 ",1,7967.3
 2020-03-11,0.1,0.0,"You can now buy state issued lottery tickets directly for Bitcoin Cash at 
@@ -957,7 +969,7 @@ You don't have to trust someone else to tell you, especially someone who might h
 2020-03-12,0.05,0.0,"The endgame for #Bitcoin ""hodlers"" is selling their coins at a higher price for more fiat.
 
 The endgame for #BitcoinCash users is to replace the entire financial system so that fiat is irrelevant.",1,4927.0
-2020-03-13,0.1375,-0.2202, This is the first time in a while I've felt like buying bitcoin. That drop was too much panic and too little reason.,2,5625.4
+2020-03-13,0.1375,-0.2202, 1/ Anyone relatively familiar with money management and markets should not be caught off guard by Bitcoin's recent move to…,2,5625.4
 2020-03-15,0.5,-0.4404,Limiting the block size was the most centralizing thing to ever happen to #Bitcoin.,1,5383.2
 2020-03-18,-0.23839285714285713,-0.59, I used to think that a Bitcoin ETF will kickstart the next bull market. I was wrong. Joe Sixpack will unfortunately get hi…,2,5416.2
 2020-03-21,0.08333333333333333,0.4404,"“It is usually futile to try to talk facts and analysis to people who are enjoying a sense of moral superiority in their ignorance.”
@@ -980,18 +992,15 @@ Bitcoin Cash: gains value primarily through growing utility in commercial adopti
 
 ",1,7293.5
 2020-04-11,-0.07272727272727272,-0.2732, The new Ballet Bitcoin Block is the ultimate physical #Bitcoin collectible. It contains entire block reward (12.5 BTC + f…,1,6884.5
-2020-04-14,0.11830357142857142,0.47262499999999996,"  4 years is reasonable amount of time for a major event. Olympics, elections, and FIFA world cups are all once every 4 years. And Bitcoin mining reward is similar to startup incentives. Startup options vest after 4 years.",4,6872.4
-2020-04-16,0.196875,-0.17210000000000003," 1/15 Today, I'm comparing the two currently most popular bitcoin price models: Rainbow chart vs S2F!
-
-Rainbow chart:
-✅ Tried &amp; t…",2,7114.9
-2020-04-17,0.145,-0.7206,"Sad Fact:
+2020-04-14,0.11830357142857142,0.472625,Evade price controls for medical supplies with our peer to peer Bitcoin Cash marketplace!  ,4,6872.4
+2020-04-16,0.196875,-0.17210000000000003,"  If I ever talked about it, it's because someone asked about it. I will never be a proponent of Litecoin or Bitcoin messing with the supply limit. That's just dumb. It makes the whole experiment pointless. So no, that's FUD and absolutely wrong.",2,7114.9
+2020-04-17,0.0725,-0.5303,"Sad Fact:
 Due to full blocks there have been more than 28,000 #Bitcoin transactions where the sender paid more than $1,000 in fees. 
 #BitcoinCash solved this problem.
-",1,7045.8
+",2,7045.8
 2020-04-19,0.6,0.3612,This is what someone doing their own #Bitcoin research looks like: ,1,7133.3
-2020-04-21,0.05416666666666667,-0.15935000000000002," Get to know the underlying ... 
-#Litecoin introduced minor technical modifications to the original #Bitcoin source cod…",2,6850.0
+2020-04-21,0.05416666666666667,-0.15935000000000002,"The “Bitcoin is a store of value” loudmouths obviously never read #Mises or #Rothbard or they would be embarrassed by the nonsense they’ve been espousing.       
+",2,6850.0
 2020-04-23,-0.09999999999999992,0.4767,"If Bitcoin still worked as money, I would gladly continue promoting it. 
 
 Today I would be embarrassed to promote something with as bad of a user experience as BTC. That’s why I now promote Bitcoin Cash.
@@ -1012,28 +1021,24 @@ Bitcoin no longer works as cash ",1,8822.9
 2020-05-02,0.0,0.296,"Today’s BTC is the coin that highjacked the #Bitcoin name.  
 The owner of  even admits this. ",1,8982.3
 2020-05-03,-0.05,0.0," Once I heard that someone imported a paper wallet into Bitcoin Core, spent a tiny amount of coins, and then deleted Bitcoin Core and all the wallet data for security reasons. He didn't realize all his remaining coins got sent to a change address that he deleted. ☹️",1,8899.8
-2020-05-04,0.23874999999999996,0.17279999999999998,One more example of the many businesses and their HUNDREDS OF MILLIONS of users driven away by #Bitcoin's high fees caused by the intentional full blocks: ,2,8865.8
-2020-05-05,-0.05,0.4939," Curious what was the Bitcoin space was like in 2011-2015? 
+2020-05-04,0.23874999999999996,0.17279999999999998," A WEBINAR YOU HALV TO ATTEND
 
-Come check out the  webinar i'm hosting on Wednesday with…",2,9020.1
-2020-05-06,0.046590909090909086,0.38225," 🚨 Announcing Episode 1 🚨
+Ever wonder what it was like to discover #Bitcoin in its early days?
 
-🔴 LIVE #bitcoin Poker Game Thursday 8pm ET on Twitter
+Join  this Wednes…",2,8865.8
+2020-05-05,-0.05,0.4939," The C++ code (in Bitcoin Core client) that will make the ""bitcoin halving"" happen 
 
-Buy in 👉0.1 #bitcoin 
-Blinds 👉50k/100k S…",2,9157.9
-2020-05-07,0.125,0.20473333333333332," *#BLOCKDROP SPEAKER UPDATE*
-
-What future does the creator of #Litecoin see for #Bitcoin? 
-
- himself will share pr…",3,9979.6
+Constant values:
+nSubsidyHalvingInterval…",2,9020.1
+2020-05-06,0.046590909090909086,0.38225,#BitcoinCash has some of the most passionate grass roots supporters in all of #cryptocurrency. ,2,9157.9
+2020-05-07,0.125,0.20473333333333332," This is big...  Bloomberg: ""Paul Tudor Jones is buying Bitcoin as a hedge against the inflation he sees coming from centr…",3,9979.6
 2020-05-09,0.22499999999999998,0.5499," 🦑ANNOUNCING THE FULL #BLOCKDROP LINEUP 
 
 The #Bitcoin #Halving is just days away, but we’re kicking off the party early this…",1,9537.9
-2020-05-10,0.1875,0.338225,"   NY agreement was signed by companies. Maybe some individual developers were ok with it, but it’s farfetch to say Bitcoin Core was on board.
+2020-05-10,0.1875,0.338225," That's a wrap!
 
-",4,8726.0
-2020-05-11,0.026484848484848483,0.031375," This is also incorrect. Not counting the coins that are lost, there will be a total of 20,999,999.9769 BTC mined but only 20,999,949.9769 BTC is spendable.
+That ends our 5-hour #Bitcoin #Halving party. Thanks to everyone who attended via #VR and to all our great sp…",4,8726.0
+2020-05-11,0.026484848484848483,0.031374999999999986," This is also incorrect. Not counting the coins that are lost, there will be a total of 20,999,999.9769 BTC mined but only 20,999,949.9769 BTC is spendable.
 
 ",4,8555.0
 2020-05-12,0.1,0.0,"I'm a proponent of #BitcoinCash.
@@ -1041,8 +1046,9 @@ I really started getting into it recently because I STARTED USING IT. -
 ",1,8811.4
 2020-05-14,0.0,0.1531,"Ask yourself why the Bitcoin community resorted to censorship, but the Bitcoin Cash community still supports free-speech.  That alone should tell you which side has stronger arguments.
 #BitcoinCash",1,9791.0
-2020-05-15,-0.0006060606060606053,0.0," With the start of the 4th #Bitcoin epoch we'll soon see another big influx of new people into this space.
-Here are some of…",3,9313.3
+2020-05-15,-0.0006060606060606053,0.0,"$1000 fees on #Bitcoin 
+$0.001 fees on #BitcoinCash
+",3,9313.3
 2020-05-16,0.5,0.0,"Bitcoin is about economics.
 Someone who understands economics knows more about Bitcoin than someone who can program. -  
 ",1,9388.0
@@ -1052,7 +1058,7 @@ RIP #LightningNetwork
 2020-05-18,0.01785714285714285,0.3625, This is getting silly. I’m not joining the Bitcoin  community. It should be perfectly obvious by now that I’ve been trollin…,3,9714.8
 2020-05-19,0.0,0.1779,"This is how Bitcoin Cash becomes cash for the world. #Amazon 
  ",1,9770.1
-2020-05-21,0.1052020202020202,0.3169666666666666, Live #bitcoin Poker Game. Watch the action and listen to epic crypto chats. Follow    for weekly live stream…,6,9059.5
+2020-05-21,0.1052020202020202,0.3169666666666666,    The same way Bitcoin does.,6,9059.5
 2020-05-24,0.3625,0.9133,"Thanks  for hosting these awesome VR meetups. Check out  and come meet me next time in virtual reality!
 
 And thanks to CQ () for creating my Chikun avatar. She also makes some kick-ass BTC/LTC neons and price tickers!  ",1,8711.5
@@ -1067,13 +1073,7 @@ And thanks to CQ () for creating my Chikun avatar. She also makes some kick-ass 
 The goal is a peer to peer electronic cash system for the world.
 
 #BitcoinCash has the best shot at achieving that goal. ",1,9452.1
-2020-06-02,0.555,0.703,"CTV (CheckTemplateVerify) is a very cool tech upgrade that can help Bitcoin &amp; Litecoin scale and improve self custody solutions.
-
-For more info on CTV: 
-
-Be sure to check out an AMA with author  this Thursday at 9am PST.
-
-",2,9530.0
+2020-06-02,0.555,0.703, Visit our sponsor  to trade spot and futures confidently! Buy #Bitcoin on #BTSE’s All-In-One Order Book using 10…,2,9530.0
 2020-06-03,0.375,0.7269," It's time to learn about :
 
 🔸 #Litecoin modified the original #Bitcoin protocol. 
@@ -1084,7 +1084,9 @@ Qty Remaining: 2,500,000
 People viewing this product right now: 7,800,000,000
 
 Description:  do the math…",1,9790.7
-2020-06-05,-0.02121212121212122,0.0, Live #bitcoin Poker Game. Follow  for weekly live stream games ,2,9620.5
+2020-06-05,-0.02121212121212122,0.0,"Send Bitcoin Cash to any email address!!! 
+
+ ",2,9620.5
 2020-06-10,0.16666666666666666,0.0,"  I think it originated on /r/buttcoin.
 
 As I remember the vocab there:
@@ -1094,60 +1096,67 @@ ETH -&gt; mETH (or ""etherbutts"", or ""ethere-ho-hum"")
 IOTA -&gt; IdIOTA
 ETC -&gt; classic mETH
 me -&gt; Vitalik Butterin (two t's)",1,9898.8
-2020-06-11,0.1597222222222222,-0.3387,"Litecoin Core 0.18.1 final release is out! Who says Litecoin has no development? 😀
+2020-06-11,0.0798611111111111,-0.4553,"Litecoin Core 0.18.1 final release is out! Who says Litecoin has no development? 😀
 
 Many thanks to all the developers that worked on this release! 👏
 
-We are already hard at work on the next release, Litecoin Core 0.20, which will bring us in line with the latest Bitcoin Core. ",1,9272.2
-2020-06-12,0.04419191919191918,0.2651,"  Oh I think bitcoin NG is quite overrated. The optimistic analysis basically assumes that uncle rate is the only constraint on block size, but in reality it's one of like five (the others being state growth, DoS risk, sync time, ease of running a full node...)",3,9468.3
+We are already hard at work on the next release, Litecoin Core 0.20, which will bring us in line with the latest Bitcoin Core. ",2,9272.2
+2020-06-12,0.038515151515151516,0.25736, Live #bitcoin Poker Game in collaboration with . Follow  for our weekly live stream show. ht…,5,9468.3
 2020-06-13,0.43333333333333335,0.4404," Scaling BTC in three easy steps:
 
 1. Scale ethereum
 2. Trustlessy tokenize your BTC
 3. Transact using the wrapped tokens…",1,9480.8
-2020-06-14,0.18333333333333332,0.25455,"The pitch for Bitcoin in 2011 is the same pitch for Bitcoin Cash in 2020.
+2020-06-14,0.2103030303030303,0.23887999999999998,"The pitch for Bitcoin in 2011 is the same pitch for Bitcoin Cash in 2020.
 
-You can send or receive any amount of money with anyone in the world, instantly, basically for free, anonymously, and there is nothing that anyone can do to stop it.",2,9345.4
-2020-06-16,0.19827777777777778,0.37582,"    Bitcoin has had many forks.
+You can send or receive any amount of money with anyone in the world, instantly, basically for free, anonymously, and there is nothing that anyone can do to stop it.",5,9345.4
+2020-06-15,0.08333333333333333,0.2603,"   &gt; Mark: One thing we haven't chatted about is currency flows. The US is currently the global reserve currency. How does being that currency play in?
 
-Granted, they are soft forks, but soft forks are perfectly capable of implementing demurrage, which is economically equivalent to issuance.",5,9534.4
-2020-06-17,0.019603174603174612,0.08918000000000001, In what way is the bitcoin supply dictated by free market? Feels very centrally planned to me.,5,9473.3
-2020-06-18,0.0,-0.8765,"#BitcoinCash has PayPal except for:
+The lack of even a dismissive mention of crypto was an interesting omission 😃",2,9433.9
+2020-06-16,0.19827777777777778,0.37582, Interesting! Would love to know what made you think I don't get bitcoin.,5,9534.4
+2020-06-17,0.01960317460317461,0.08918000000000001,"  &gt; there's no governance process for mutating the monetary properties of bitcoin.
+
+But we agree that the only reason the governance process hasn't yet tried to mutate the monetary properties of bitcoin is the social contract, right?",5,9473.3
+2020-06-18,0.0,0.162075,"#BitcoinCash has PayPal except for:
 1. No registration
 2. No identity requirements
 3. No transaction limits
 4. No charge backs
 5. No geographic boundries
 6. No fees
-",1,9400.0
-2020-06-19,-0.006818181818181827,0.0, Live #bitcoin Poker Game and epic crypto chats. Follow  for our weekly live stream show. …,1,9315.5
+",4,9400.0
+2020-06-19,-0.0034090909090909137,0.0386, Live #bitcoin Poker Game and epic crypto chats. Follow  for our weekly live stream show. …,2,9315.5
+2020-06-20,0.2366666666666667,0.7041,"  Ethereum is a platform that has many stablecoins on it, along with many other cool applications (as well as its own native cryptocurrency ETH)",2,9371.3
 2020-06-25,0.0,0.34," Recorded a conversation with  talking about:
 
 •How poker helped him understand Bitcoin's value
 •Narratives…",1,9257.0
-2020-06-26,0.007670454545454536,0.33045,   Also of course I'd raise the point that in the context of bitcoin existing it seems optimal for ethereum to take the opposite corner of the trade-off space.,4,9173.1
+2020-06-26,0.007670454545454538,0.33045,"Join me now for an #AMA and demonstration of cool #BitcoinCash technology that enables permissionless cash for the world.
+#Bitcoin ",4,9173.1
 2020-06-27,0.25,0.9118," Bitcoiners mostly want the world reopened. We value freedom and personal responsibility.
 
 Ethtards trust and value centr…",1,9015.3
-2020-07-01,0.14583333333333334,0.2708,    That only proves someone might be an early miner. Or maybe he has a lot of computers running SETI searching for extra terrestrials. Nothing in a tax retunrn can prove he created Bitcoin.,3,9239.9
-2020-07-02,0.23737373737373738,0.4032,"    I think Transmuter could even be used to do BTC-&gt;DAI conversion, perhaps even on a DEX giving retailers permission-less decentralized stablecoin conversion
+2020-07-01,0.15937500000000002,0.42622499999999997,    How are tax transcripts going to prove whether or not someone created Bitcoin?,4,9239.9
+2020-07-02,0.1696969696969697,0.09037500000000001,"Want to know more about how #bitcoin and the #LightningNetwork work? Join me on Sunday for a live premiere of my talk from  called “A Technical Introduction to the Lightning Network”. 
 
-Much better than custodial solutions like BitPay which severely limit the jurisdictions and permitted activities.",3,9100.0
-2020-07-03,0.0853200371057514,0.24801428571428571,"New interview out on  podcast. Tune in if you want to hear us discuss strengths, weaknesses, threats &amp; resilience:  #Bitcoin",7,9073.9
+Set a reminder to watch + chat: ",4,9100.0
+2020-07-03,0.13715503246753247,0.2170125, Live #bitcoin Poker Game and epic crypto chats. Follow    for our weekly live stream show. …,8,9073.9
 2020-07-04,0.09523809523809525,0.4019," #4thofJuly #SeedPirates Special.
 
 #Bitcoins were hidden in the #DeclarationOfIndependence. Discover the 12 words and steal…",1,9147.7
-2020-07-05,0.22357954545454545,0.571925,"30 minute countdown starts now! Join me to learn more about how #bitcoin and the #LightningNetwork work in the live premiere of my talk from  virtual conference.
+2020-07-05,0.22357954545454545,0.571925,"The main discussion platforms for the three flavors of Bitcoin:
 
-💻 Join to watch + chat LIVE: ",4,9089.7
-2020-07-06,0.05255681818181818,0.014899999999999997, Initial clients literally had to run open-source scripts that scanned the bitcoin blockchain for purchases to generate the genesis.,4,9361.0
-2020-07-07,0.2296875,0.025474999999999998, But then bitcoin is equivalent to Satoshi premining 2m coins and personally distributing them among everyone who mined blocks in the first year...,4,9267.5
-2020-07-08,0.04923809523809524,0.31576000000000004,"If you've wondered how the number of zeros in a target hash is determined, well, this one's for you!  #Bitcoin",5,9447.0
-2020-07-09,0.3151041666666667,0.15381666666666668,See the truth about #Bitcoin ,6,9248.9
-2020-07-10,0.026941287878787877,-0.17922499999999997, Disagree. You can earn BTC instead of buying it. Informal economies don't do KYC. The world runs on informal economies. Adoption is not going to happen in the 1st world by those who already have banking and don't need crypto.,4,9305.7
-2020-07-11,0.14867424242424243,0.5313333333333333,"30 Minutes until I’m LIVE on YouTube for a Bonus Livestream. I’ll be answering basic questions about #bitcoin, #ethereum, open #blockchains &amp; more. Join now and I’ll see you soon!
+#BitcoinCash: Strongly supports free speech
+#Bitcoin: Strongly supports censorship
+#BitcoinSV:  Engages in preemptive censorship",4,9089.7
+2020-07-06,-0.006628787878787887,0.07691666666666666, Initial clients literally had to run open-source scripts that scanned the bitcoin blockchain for purchases to generate the genesis.,6,9361.0
+2020-07-07,0.11929112554112552,0.12147142857142858,"What #privacy features is it possible for #Bitcoin to implement? What is technically possible? And with controversy around privacy features, what are we likely to see implemented on the Bitcoin network? ",7,9267.5
+2020-07-08,0.15088435374149659,0.4407571428571429,Learn best by listening? 👂Lounge in the sun and throw on some headphones to listen to #TIOMv3 and learn about how to measure success in #crypto:  ,7,9447.0
+2020-07-09,0.3165178571428572,0.2173142857142857,See the truth about #Bitcoin ,7,9248.9
+2020-07-10,0.026941287878787877,-0.17922499999999997, Live #bitcoin Poker Game and epic crypto chats. Follow    for our weekly live stream show. …,4,9305.7
+2020-07-11,0.11150568181818182,0.39849999999999997,"Thanks for joining the “#Bitcoin for Beginners” Livestream Q&amp;A session today! 
 
-🎥 1PM EDT/1700 UTC: ",3,9246.3
+Find more upcoming events on this playlist:  or subscribe to my YouTube channel for automatic notifications of new videos, Livestreams, and Live Premieres.",4,9246.3
 2020-07-12,-0.06666666666666665,0.1779,"Winners want others to win.
 Losers want others to lose.
 
@@ -1158,151 +1167,151 @@ Losers want others to lose.
 
 Learn more:  ",1,9252.0
 2020-07-14,0.09391233766233767,0.286325,Should you price your products and services in #bitcoin? Learn in this new Q&amp;A video on the aantonop YouTube channel:  #crypto,4,9263.4
-2020-07-15,0.19652380952380952,0.27096," Breaking: after Twitter hack, bitcoin volatility skyrockets as price crashes in freefall from $9,225 to $9,220.",5,9210.1
-2020-07-16,0.14,-0.2337,"Those who need #cryptocurrency the most, prefer #bitcoin that works as cash.  #bitcoincash:  
-",3,9149.9
+2020-07-15,0.15151334776334777,0.03405454545454544,"In case anyone filed to notice, the Twitter hackers are using native Segwit addresses and BTC. Just sayin'",11,9210.1
+2020-07-16,0.08277777777777778,-0.386325,"Those who need #cryptocurrency the most, prefer #bitcoin that works as cash.  #bitcoincash:  
+",4,9149.9
 2020-07-17,0.178125,0.58195," make #BitcoinCash the easiest #cryptocurrency to send to strangers on the internet.
 #twitterhacked ",2,9167.3
-2020-07-18,0.12420454545454544,0.33690000000000003,Love #bitcoin? Follow your 🧡(heart) and 👀(look) at all of the new emoji merch in the #aantonopshop:  #WorldEmojiDay ,4,9189.1
-2020-07-20,0.2333333333333333,0.2622666666666667,The products from the top two companies funding Bitcoin protocol development are only needed if Bitcoin isn’t allowed to scale on chain. No one should be surprised that Bitcoin wasn’t allowed to scale. ,3,9179.2
-2020-07-21,0.13083333333333333,0.26492,"If you’ve ever wanted to buy one of my e-books using #crypto, I recently added several to the #aantonopShop! Purchase for yourself, a crypto curious friend, or use it as an excuse to teach someone how to use #bitcoin. 
+2020-07-18,0.12420454545454544,0.33690000000000003,"Tomorrow is the Live Premiere of the 1st video in my new #ReMastering series, where the aantonop team has added audio &amp; visual elements to one of my talks. This one is #InfrastructureInversion in #bitcoin- can’t wait to watch w/ you!
 
-Pay with #BTC, #ETH, #DAI, or #LTC:  ",5,9402.0
+🎥 1PM EDT/1700 UTC:  ",4,9189.1
+2020-07-20,0.2333333333333333,0.2622666666666667,"Mastering Lightning update:
+
+Today I worked on chapter 3 edits (again), finishing the payment forwarding and communication encryption sections. 
+
+The last section to edit is comparison between Bitcoin and Lightning
+
+Follow, comment, contribute here:
+
+",3,9179.2
+2020-07-21,0.12771464646464645,0.22076666666666667,"You can now hold #BitcoinCash as part of your retirement account, TAX FREE, thanks to the  Bitcoin Cash Trust!   
+",6,9402.0
 2020-07-22,-0.078125,0.063,It’s okay to swim against the tide and be weird! 🦄🧜‍♀️ Read about why we should “Keep Digital Communities Weird” in #TIOMv3:  #Bitcoin ,2,9557.7
 2020-07-23,0.1875,0.28535,"When did you buy or earn #bitcoin for the first time? Listen to “Why Bitcoin is the next Bitcoin” to hear my story! 
 
 This video is a part of the “Adoption: How, Why, When?” playlist on the aantonop channel:  ",2,9615.0
-2020-07-24,0.4449074074074075,0.34306666666666663,"Mastering Lightning update:
+2020-07-24,0.4449074074074075,0.34306666666666663," I wrote two of my books that way. Check out ""bitcoinbook"" and ""ethereumbook"", the Github is the same as the printed version, or in some areas better because it has improvements/corrections that haven't made it into print.",6,9559.4
+2020-07-25,0.17471590909090906,0.3043,"Here's an interview I did that combines two of my favorite subjects: Bitcoin and Aviation
 
-Today I continued work on the node_operations chapter and wrote about hosting your own Lightning and Bitcoin, cloud vs own, and helpers like #RaspiBlitz. 
+",4,9714.9
+2020-07-26,0.041874999999999996,0.0411," These are running on a variety of Linux servers, some hosted on Amazon, most on my own servers. 
 
-Follow, comment, contribute:
-",6,9559.4
-2020-07-25,0.1747159090909091,0.3043,"The final countdown! The July Livestream Q&amp;A starts in 30 minutes! 
-
-💻 Join to watch &amp; chat LIVE:   #bitcoin ",4,9714.9
-2020-07-26,0.11249999999999999,0.0593," Tim, I've been running several nodes for years. This is an experiment on small-form-factor nodes, for my book Mastering Lightning.
-
-Running:
-- 4 x bitcoin full archival nodes
-- 4 x Lightning nodes
-- 1 x Electrum server
-- 1 x BTCPay server
-- 1 x Ethereum node
-- 1 x Monero node",3,9948.1
+I've been running at least one Bitcoin node since 2013, continuously. I've been running a Lightning node since 2017 continuously.",4,9948.1
 2020-07-27,0.19220779220779222,0.3953,"   I guess it depends on how technical you are right now. If you are new to coding,  is a good way to start learning coding. And Mastering Bitcoin by  is great for learning Bitcoin and blockchain.",2,11044.0
 2020-07-28,-0.034375,-0.07655," Yup, Bitcoin is still king.",2,10932.0
-2020-07-29,0.05762626262626263,0.0003000000000000005,"Bitcoin Cash works as cash. 
-Bitcoin does not.
+2020-07-29,0.05762626262626263,0.0003000000000000005,"  I think the new narrative is ""bitcoin is a sound money invention, that's what matters; the tech is at best a necessary evil to make sure the sound money keeps working""
 
-That is all. ",3,11117.0
-2020-07-30,0.16265151515151516,0.181775,"Das Internet des Geldes &amp; Das Internet des Geldes Band Zwei are now available for purchase on Kindle and for free on Kindle Unlimited. 
+In that light of course ethereum looks illegitimate.
 
-Get to learning about #bitcoin and #blockchains and share with your German-speaking friends//aantonop.io/dasgeldesde #TIOMv1 #TIOMv2 ",4,11123.0
-2020-07-31,-0.0034090909090909137,0.0, Live #bitcoin Poker Game and epic crypto chats. Follow      for our weekly live stream show. …,2,11350.0
-2020-08-01,0.24305555555555555,0.16755,Bitcoin Maximalists are the #CancelCulture of #cryptocurrency.,6,11804.7
-2020-08-02,0.2333333333333333,0.765,"A friend with a cash business wants to stamp all his cash to advertise  and 
-Design Contest:  
-$500 for the winning stamp 
-$20 each for ten runner up designs.
-Use hashtag #LocalBitcoinCash ",1,11053.8
-2020-08-04,0.12238528138528137,0.08152857142857142,"  No, I don't think so. Bitcoin continues to do what it was made to do. 
+(though that perspective underestimates PoS, EIP 1559...)",3,11117.0
+2020-07-30,0.16265151515151516,0.181775," Not true.
 
-""Faster"" is the wrong optimization, as far as I'm concerned as it sacrifices robust decentralization and security. The Lightning Network is faster without that sacrifice, and enables very nice MoE function",7,11184.0
-2020-08-05,-0.03274999999999999,-0.031420000000000003,"Why isn't #bitcoin used for memberships, subscriptions, and other recurring payments? What do you need to enable recurring #crypto payments? Patreon Community Builders asked; here are the answers:  #LightningNetwork",5,11735.8
+I take all kinds of payments, including BTC, Lightning, Monero, ETH, DAI, LTC akd even (dirty) fiat.
+
+Many of my readers are new to crypto. I try to make it easy for them to buy my books.",4,11123.0
+2020-07-31,0.08106060606060606,0.1953, Live #bitcoin Poker Game and epic crypto chats. Follow      for our weekly live stream show. …,3,11350.0
+2020-08-01,0.2202380952380952,0.20915714285714287,"Can someone recommend a good solution for monitoring Bitcoin Core node running on a remote sever?
+
+Maybe the same for Lightinng node?
+
+I'm having problems with uptime and don't get notification if the server is still up but the node isn't",7,11804.7
+2020-08-02,0.13042063492063488,0.24224," It's called shilling and it is something crypto is VERY GOOD at. 
+
+Not my game. I despise ""influencer marketing"", especially since most is done without disclosure. You have no idea the level of scam/frauds happening",5,11053.8
+2020-08-04,0.12238528138528139,0.08152857142857144, #Litecoin has evolved to complement #Bitcoin as a comparable alternative digital currency and payment method with fast confi…,7,11184.0
+2020-08-05,-0.03274999999999999,-0.03141999999999999,"   Meh, Satoshi didn't believe in Schnorr signatures either and here the bitcoin community is trying to adopt them.
+
+(yes I know PoS and schnorr aren't quite comparable, but try to put yourself into the mindset where they are, at least for a little bit)",5,11735.8
 2020-08-06,0.10893518518518518,0.2605,Hop down the #bitcoin rabbit hole… this time in German! The Internet of Money Volumes 1 and 2 are now available in German on Kindle &amp; Kindle Unlimited:   #TIOMv1 #TIOMv2 ,6,11759.0
-2020-08-07,0.13363095238095238,-0.027599999999999986,The best kind of summertime blues 💙🎵💙  #TIOMv3 #Bitcoin ,4,11580.0
+2020-08-07,0.24906622023809524,0.14736,"  Yes they do. Every block in ethereum has a state root (a Merkle hash of the entire state that contains all account balances), so any disagreement on that would immediately lead to a consensus failure.
+
+Bitcoin does NOT have this feature BTW.",5,11580.0
 2020-08-08,0.204962822671156,0.11465555555555557,"      I wrote this book and continue to study Ethereum because I think it is interesting, from a technical perspective. This interest has cost me money and some goodwill from BTC maxis, but I continue despite these costs. 
 
 I am motivated by intellectual curiosity.",9,11764.0
-2020-08-09,0.024444444444444446,-0.10626666666666666,"        There are plenty of valid criticisms of Bitcoin. We should not shy away from such discussions and we should be able to openly discuss, *and evolve* the system to counter these issues. 
-
-That article is just serving up warmed-over arguments from 2013 that have long been debunked",3,11675.7
-2020-08-10,-0.030631419234360413,-0.13451764705882352,"Again, it takes 10x the time to debunk bullshit as it does to state
-
-There are plenty of valid things to criticize, both for Bitcoin and Ethereum. Those who understand these technologies work to address the issues by *building* engineering solutions for engineering problems
-/19",17,11892.0
-2020-08-11,0.1619047619047619,0.48251428571428573," Oh I use the term religion neutrally. Ethereum and bitcoin both subscribe to the cypherpunk religion for example. Do you prefer ""memeplex""?",7,11379.8
-2020-08-12,0.07493386243386242,0.25851111111111114,"#MasteringBitcoin &amp; #MasteringEthereum, two of my more technical works, are now available as e-books in the #aantonopShop. I setup the shop for community meme merchandise, and as a way to sell my e-books for #crypto:  ",9,11591.0
-2020-08-13,0.13194444444444445,0.185725, 250 Million Reasons Why MicroStrategy Adopted Bitcoin... And Why Others Will Too ,4,11792.5
-2020-08-14,0.11958874458874459,0.09836249999999999," Ultimately, neither your opinion nor mine will determine the outcome. The market will. 
+2020-08-09,0.2243888888888889,0.16034,"    OK that's fair, then realistically a few (BTC, ETH, ETC until recently, likely a couple others I don't know about)",5,11675.7
+2020-08-10,-0.030631419234360413,-0.13451764705882355,"   I have a wide probability distribution on the price of BTC (and other cryptos). Basically, we should be prepared for anything between significantly lower than today and multi-trillion-dollar market caps.",17,11892.0
+2020-08-11,0.1759259259259259,0.32897777777777776," India is among the 5 fastest-growing bitcoin user groups in the world. Paxful’s Indian volumes surged from around $576,000 in…",9,11379.8
+2020-08-12,0.06744047619047618,0.24037999999999998,"How secure is it to use a password manager to backup your #crypto keys? Here is your answer, and some best practices:  #bitcoin",10,11591.0
+2020-08-13,0.13194444444444445,0.185725,"  An example of ""a technical status quo that is not a social contract"" in bitcoin is all the OP_TRUE opcodes that get repurposed every time a soft fork happens.",4,11792.5
+2020-08-14,0.12018999518999518,0.00475555555555555," Ultimately, neither your opinion nor mine will determine the outcome. The market will. 
 
 So far it has consistently voted Ethereum for smart contracts and tokens despite Bitcoin having had 2nd layers since 2013 (Counterparty, Omni, now RSK etc). 
 
-You bet the market is wrong.",8,11761.0
-2020-08-15,0.12737689393939394,0.32705,"It's interesting how in the last few weeks I've argued with both pro-BTC *and* anti-BTC people who think BTC will utterly cripple nation state funding (pro-BTC ppl wanting to defund the militaries), while I disagree with both: I just don't think it will have that kind of effect. ",8,11873.4
-2020-08-16,0.10546875,0.18705,"Litecoin SegWit usage has reached 80%, whereas Bitcoin is only at 50%. This is mainly because  still has not implemented SegWit. ",2,11925.0
-2020-08-17,0.08079365079365079,0.3655714285714286,"Into blockchains or curious about this tech? As an educator whose mission is to educate as many people as possible about #bitcoin &amp; open #blockchains, we would love to know how you like to learn:  ",7,12300.0
-2020-08-18,0.03182732941661515,-0.22088999999999998, Funky Crypto Podcast EP: 36 Livestream: Creator Of Litecoin Charlie Lee  in the house.  #Bitcoin #BTC #Crypto #L…,10,11961.8
-2020-08-19,0.08373015873015872,0.5494,"    &gt; ""It's ok to lock user funds for weeks or months""
+You bet the market is wrong.",9,11761.0
+2020-08-15,0.04263774104683195,0.2935727272727273,It's in the best interest of centralized exchanges to keep Bitcoin a poorly developed protocol with expensive fees. So it would be practically impossible to trade it with decentralized exchanges or atomic swaps. ,11,11873.4
+2020-08-16,0.10546875,0.18705,"     I've talked about plenty of chains other than ethereum! Off the top of my head I've talked about recently:
 
-Meanwhile, in the bitcoin lightning network, your counterparty (a SINGLE party) can force your funds to be locked away for a long duration.",3,11778.0
+* Ethereum Classic
+* Zcash
+* Bitcoin
+* Bitcoin Cash
+* EOS
+
+The eth2 annotated spec mentions Peercoin, NXT, Cardano...",2,11925.0
+2020-08-17,0.08079365079365079,0.3655714285714286," BUC071 with me, myself and I interviewed by  about my #Bitcoin  experiences in #Africa, the importance of privacy,…",7,12300.0
+2020-08-18,0.03182732941661515,-0.22088999999999998, The MtGox example was there to show that it is just as possible to do stupid things on top of bitcoin.,10,11961.8
+2020-08-19,0.06279761904761905,0.32705,"    One of the main flaws of bitcoin maximalism is binary thinking. Either you can do everything yourself, or there is ""trust"", and any degree of trust is baaaaasically like trusting infura.",4,11778.0
 2020-08-20,0.3535714285714286,0.2975," Bitcoin Twitter really underestimates how much damage it has done to Bitcoin.
 
 Smart people who'd've do great things with…",1,11884.0
-2020-08-21,0.2885732323232323,0.38693333333333335," EP: 36  
-Creator of #ŁTC 
+2020-08-21,0.28857323232323234,0.3869333333333333,"The most amazing thing about Satoshi's invention is that Bitcoin will continue on forever. Blocks will continue at the same rate because it's self-adjusting to any hashrate changes. The incentives structure and game theory is so simple yet so brilliant.
 
-- #BTC better Gold &amp; #LTC better silver.
-- MW, $LTC Visa Card …",6,11531.0
-2020-08-22,0.04116161616161616,0.2785,"The behind-the-scenes premiere of my home studio setup starts now!! 
-
-🎥 👀 Join to watch &amp; chat:  #bitcoin ",3,11685.0
+(h/t  for image) ",6,11531.0
+2020-08-22,0.04469696969696969,0.15166,   You can probably piggyback off of existing systems if needed: cryptographic ZK-proof of logging into an Uber/Lyft driver account. Completely technically feasible!,5,11685.0
+2020-08-23,0.0,0.0, What are cryptocurrencies?  ,1,11663.0
 2020-08-24,-0.004166666666666666,0.37495," #Turkish bitcoin users are ""waist-deep in a bull run"" as ""volumes roughly quadrupled over the past year, attracting roug…",2,11768.0
-2020-08-25,0.0,0.0,      I’m not a Bitcoin maxi and I'm not getting any tokens at a discount.,1,11341.0
-2020-08-26,0.08927154195011337,0.10460000000000003,"🎥 This Saturday 1PM EDT/1700 UTC I’ll be livestreaming on YouTube answering questions about all things #bitcoin #ethereum and other open public blockchains. Beginners and not-so-beginners welcome! 
+2020-08-25,-0.049999999999999996,0.00836666666666667," 👀 WATCH: The brightest minds in the #Blockchain &amp; #crypto space are standing up to racism. 🏴
+
+Join us and …",3,11341.0
+2020-08-26,0.08927154195011337,0.10460000000000001,"🎥 This Saturday 1PM EDT/1700 UTC I’ll be livestreaming on YouTube answering questions about all things #bitcoin #ethereum and other open public blockchains. Beginners and not-so-beginners welcome! 
 
 Set a reminder by going to  #aantonop #aantonoplive ",3,11471.0
-2020-08-27,0.265,0.47745,"Very interesting and important work by . Will help keep mining pools honest and help miners choose which pools to avoid. Currently supports 11 proof of work coins including Bitcoin and Litecoin.
+2020-08-27,0.24333333333333332,0.21963333333333335,"Very interesting and important work by . Will help keep mining pools honest and help miners choose which pools to avoid. Currently supports 11 proof of work coins including Bitcoin and Litecoin.
 
 Watch the video: 
 
 
-Great job  and ! 👏 ",2,11343.0
+Great job  and ! 👏 ",3,11343.0
 2020-08-28,0.5,0.296,🎥🍿 What’s the difference between child pays for parent and replace by fee in #bitcoin and what are some use cases for each? I’ll be answering these questions and more tomorrow on my livestream. Join me:  #aantonoplive ,1,11545.0
 2020-08-29,0.0,0.296,Livestream starts in 30 minutes. 🎥🍿 I’ll be answering questions on all things #bitcoin and open #blockchains. Join now:  #aantonoplive ,1,11492.0
 2020-08-30,0.0,0.1779,"The solution to  and ’s problems in #California can be solved with #Bitcoin Cash.
     ",1,11729.9
-2020-08-31,-0.0035714285714285726,0.12334999999999999, Having trouble keeping up with news and developments related to #Bitcoin privacy? I write a monthly newsletter to do just that.…,2,11671.0
-2020-09-01,0.1764718614718615,0.10088,"     Bad advice in this article, suggesting finds should be split into multiple addresses. 
-
-The mistake here was storing 1400 BTC on a hot wallet. Doesn't matter how many addresses. That kind of stash should be in cold storage, not on a PC.",5,11942.0
+2020-08-31,-0.024603174603174603,0.06503333333333333,"Diverting part of the #BitcoinCash block reward to pay a single development team is a Soviet style central planner’s dream come true.
+Please stop. ",3,11671.0
+2020-09-01,0.20880944865319867,0.26632222222222224,"   I think purely technical solutions to crypto inheritance planning are premature, untested and incomplete. I wouldn't use them for my own money",9,11942.0
 2020-09-02,0.22916666666666666,0.5110333333333333," To further expand our cryptocurrency options for Pornhub Premium, we're excited to announce that we now accept Bitcoin…",3,11408.0
-2020-09-03,0.625,0.0,"Did you know that more Bitcoin users wear boots than drive Hondas? Learn why!
-
-(Trying to do clickbait headlines. Let me know if it is working)",1,10170.0
-2020-09-04,0.016666666666666666,0.05296666666666667,"Learn about the “Crypto-Winter to the North, Crypto-Summer to the South” in Chapter 12 of #TIOMv3! 🌷❄️ #Bitcoin ",3,10484.7
-2020-09-05,0.041666666666666664,0.2698333333333333,"  Here's the entire video of my talk at the first Bitcoin Foundation conference in San Jose in 2013.
-
-",3,10197.0
+2020-09-03,0.3635416666666667,0.24625000000000002,The top 5 ways to add cryptocurrency to your beef stew! (and one more secret ingredient with 500% yield!),4,10170.0
+2020-09-04,0.016666666666666666,0.05296666666666667,"Thank you Tim.  
+Bitcoin was always meant to be cash. ",3,10484.7
+2020-09-05,0.009722222222222215,-0.20299999999999999," Bitcoin: digital gold, mine 1m, disappear, create Blockstream",6,10197.0
 2020-09-06,-0.45,0.3646,"  Not. I don't hide behind a pseudonym like a coward, ""God of Bitcoin"".
 
 It is because I make my principles known under my name that you can come along and criticize them from the safety of anonymity.
 
 While I think that PR is silly and harmless, it is disrespectful to the devs",1,10276.0
-2020-09-07,0.36874999999999997,0.39819999999999994, Against my advice my son  just bought even more #Bitcoin. Whose advice do you want to follow? A 57-year-old…,3,10397.0
-2020-09-08,0.2775284090909091,0.21644999999999998,"   Thanks  for mentioning me on the show and for the kind words. I like the new studio!
+2020-09-07,0.36874999999999997,0.39820000000000005, Against my advice my son  just bought even more #Bitcoin. Whose advice do you want to follow? A 57-year-old…,3,10397.0
+2020-09-08,0.21775703463203458,0.15716666666666665,"Categories of solutions I see are:
 
-I hope you didn't lose the bitcoin I gave you... ;-)",4,10149.8
-2020-09-09,0.3125,0.2287,"📣 YouTube’s community translations are being turned off 09/28! Many viewers rely on these translations to learn about #bitcoin and #crypto. 
-
-If you speak another language here’s how you can help👇🏼
-
-
-🎦 My Channel:  ",2,10240.0
-2020-09-10,0.25,0.2732,"When you change fundamental technologies, like money, it takes a while for society to change with it.
+* Subscribing to other people's blocklists
+* Using cryptoeconomics to scale up admins 
+* Making it costly to have an account with posting rights (eg. sign with a key that has &gt;100 SNT locked up, or ZK-prove a brightid)",6,10149.8
+2020-09-09,0.2916666666666667,0.4364333333333333,"#Cryptocurrency is revolutionary. It has the ability to change the world. Like the automobile &amp; the internet before it, #crypto is shaping our world for a better, brighter future. In #RIPCORD, R is for Revolutionary. Check out a “Revolution in Trust”:  ",3,10240.0
+2020-09-10,0.3125,0.245,"When you change fundamental technologies, like money, it takes a while for society to change with it.
 
 #Bitcoin and open blockchains are revolutionary and we are “Bridging the Gap Between Geeks and Mass Markets” together. 
 
-Learn more:  #RIPCORD ",1,10355.0
-2020-09-11,0.04388888888888889,0.05073333333333333,"#TIOMv2 is now translated into Spanish &amp; is available to download from the #aantonopShop. Help your Spanish-speaking friends and family understand why #Bitcoin and open blockchains matter.
+Learn more:  #RIPCORD ",2,10355.0
+2020-09-11,0.15791666666666665,-0.005925,"  Ethereum Classic, Bitcoin Gold and a long list of other chains prove otherwise. IMO only a matter of time until attackers start moving further up the stack.",4,10405.0
+2020-09-12,0.2582431457431458,0.6879666666666666,"This week’s Bonus Livestream starts in 30 minutes! We’re talking all about all things #DecentralizedIdentity. Join to ask your questions.
 
-📚 Compra aquí:  #IDD2 ",3,10405.0
-2020-09-12,0.4833333333333334,0.9278," Join the fantastic  #Bitcoin Rally tournament this Sunday and win a VIP ticket for #MCCVR2020, the first full-VR…",1,10458.0
-2020-09-13,0.2962594696969697,0.3488166666666667, So that's what happened to Satoshi. He took his bitcoins and went to the future.,6,10331.0
-2020-09-14,0.05,0.177575,"Sent this text message to about a 5th the population of the entire country of #Antigua.
-#Bitcoin #Cash #Crypto 
-  ",4,10686.0
+💬 10AM PDT/1700 UTC:  #crypto ",3,10458.0
+2020-09-13,0.2962594696969697,0.3488166666666667,"$10k bounty to get BTC/LN integrated into Gitcoin.
+
+Sounds like something to build on top of  
+
+Anyone? ",6,10331.0
+2020-09-14,0.05,0.177575, I know that there's a substantial bitcoin maximalist European contingent too.,4,10686.0
 2020-09-15,0.23904220779220778,0.794,"  Um, you know it's a Bitcoin focused podcast right? The title of the show is ""What Bitcoin Did""
 
 ""I went to a baseball game and BASKETBALL was being ignored!""
@@ -1320,11 +1329,15 @@ Bitcoin Cash is the technology and user experience that made it popular.",1,1095
 2020-09-19,0.075,0.7772,"Thanks for joining today to chat about ETH2.0. Answering your questions is always fun! 
 
 Next week's Livestream topic: anything bitcoin &amp; open blockchains! It’s an open topic Q&amp;A. Subscribe &amp; hit the bell to be notified of this &amp; other livestream events:  ",1,11099.0
-2020-09-20,0.05,-0.4019,  It's totally possible that eventually bitcoin miners will institute a soft fork where they reject withdrawals from the bitcoin-side addresses that do not have valid corresponding initiation orders on the ethereum side...,1,10934.5
-2020-09-21,0.10260416666666668,-0.19343750000000004,"Then the war on cash and the war on ""illicit"" money becomes an all out war on the only money that still works. The free, open, borderless, neutral, immutable, censorship resistant money that crypto-currencies like Bitcoin offer
+2020-09-20,0.128125,0.14445,"     I definitely think that this effect is much weaker in crypto than it is in other industries (and so we should target our competitive advantage and focus on people not from the centers, which IMO we've done successfully)",2,10934.5
+2020-09-21,0.07838541666666668,-0.27408125," 🌟A magical announcement!🌟
 
-13/",8,10434.0
-2020-09-22,0.057638888888888885,-0.051366666666666665,Bitcoin was designed to be digital cash used to make payments over the internet.,3,10549.0
+We're hosting 3 straight days of MintGox #Bitcoin Rally tournaments leading up to #MCCVR2020!
+
+On W…",16,10434.0
+2020-09-22,0.057638888888888885,-0.051366666666666665,"#RIPCORD blockchains are public, flat networks between participants. No hierarchy, no gatekeepers. Open to everyone and anyone. Public for the people; public for us. 
+
+Learn more about #InternetofMoney. To #bitcoin and beyond!  ",3,10549.0
 2020-09-23,0.2125,0.39576666666666666," Hang out with your favorite bitcoiners on a tropical island!
 
 #MCCVR2020 - the first full-VR #Bitcoin conference🏝️
@@ -1333,89 +1346,103 @@ Expl…",3,10263.0
 2020-09-24,-0.19999999999999996,-0.32985," Only 21 hours to go until #MCCVR2020! Expect 2 days packed with top-level #Bitcoin content🏝️
 
 Hang out with your favorit…",2,10754.0
-2020-09-25,0.26,0.4465,"📣 This week’s Livestream is an Open Topic Q&amp;A. I will be answering questions from Community Builders first, but the slido is open for anyone to ask questions! Topics so far include: #bitcoin, #proofofstake, #privacy &amp; more.
+2020-09-25,0.21749999999999997,0.4684,"See you guys tomorrow at #MCCVR2020!
 
-🎥 👀 Set a Reminder:  ",2,10708.0
-2020-09-26,0.174512987012987,0.38895,"📣 This month’s Open Topic Q&amp;A starts right now! 📣
+Hang out in our awesome magical crypto VR world with bitcoiners, litecoiners, monereans, and maybe even some closet ethereans. 😂
 
-💬 Join Here:  #bitcoin #crypto ",2,10750.0
-2020-09-27,0.28541666666666665,0.02100000000000002,Having nearly 100x more #Bitcoin wrapped for use on #Ethereum than in #LightningNetwork shows LN has been a total failure for scaling BTC. ,2,10803.0
+And choose from a wide variety of human avatars and furry friends! To find me, just look for the 🐔 with a 🚀. ",4,10708.0
+2020-09-26,0.25523088023088025,0.5436333333333333,"📣 This month’s Open Topic Q&amp;A starts right now! 📣
+
+💬 Join Here:  #bitcoin #crypto ",3,10750.0
+2020-09-27,0.3763888888888889,0.29786666666666667,"🚨🚨LAST DAY! YouTube is turning off user supported translations tomorrow. Many people rely on these subtitles to learn about #bitcoin. Please translate a video if you know another language: 
+
+🎦 My Channel: ",3,10803.0
 2020-09-29,0.1515625,0.7712,"The very first #BitcoinCash ATM machines have landed! They will be ready for the public to use to save on #Amazon via  shortly. 
  #Caribbean ",1,10856.0
 2020-09-30,-0.06666666666666667,0.0, #Bitcoin (aka “crypto”) is direct activism against an unverifiable and exclusionary financial system which negatively affects so…,1,10794.0
-2020-10-01,0.32083333333333336,0.1794," There are many versions of USD, BTC and ETH on ethereum. Whichever you consider money you can use!",3,10634.0
-2020-10-02,0.18396464646464647,-0.021933333333333343,"Know someone obsessed with #bitcoin and #leggings? Members of the #aantonop team are &amp; now we have bitcoin leggings in the #aantonopShop. 🤯 
+2020-10-01,0.32083333333333336,0.1794, Having trouble keeping up with news and developments related to #Bitcoin privacy? I write a monthly newsletter to do just that.…,3,10634.0
+2020-10-02,0.08621212121212121,0.07028000000000001,"  It's not ""no finality until challenge period ends"", it's ""no finality until your personal estimate of the network latency bound passes"". And I think cryptoeconomic partial confirmations are going to be enough for most users in practice.",5,10586.0
+2020-10-03,-0.03333333333333333,0.312," Hmm, that was back in 2013, I kinda forgot whether or not stealing everyone's bitcoin was my sole intention in starting ethereum.
 
-Staff quote, “they’re comfy, look great, &amp; they’re not see-through!” The shop accepts #crypto or dirty fiat ➡️  ",3,10586.0
-2020-10-03,0.0,0.6121," Hmm, that was back in 2013, I kinda forgot whether or not stealing everyone's bitcoin was my sole intention in starting ethereum.
-
-  you recently wrote books about this, any chance either of you remember?",1,10558.6
-2020-10-04,0.0,0.0,Bitcoin Cash continues to spread as a peer to peer cash system for the world.  ,1,10687.0
+  you recently wrote books about this, any chance either of you remember?",2,10558.6
+2020-10-04,-0.0625,0.0,Bitcoin Cash continues to spread as a peer to peer cash system for the world.  ,2,10687.0
 2020-10-05,0.0,0.0,"Command line tools for bitcoin and hardware wallets 
 
-",1,10807.0
-2020-10-06,0.0,0.3818,#Bitcoin maximalists are too focused on market cap instead of market utility.,1,10613.7
-2020-10-07,0.0,0.8176,"Did you know that when you use #crypto, you substitute authority with autonomy? Share the #TIOMv2 German translation with your German-speaking friends and spread the message of change and hope:  #Bitcoin ",1,10687.0
-2020-10-08,0.1,0.1357," Tomorrow I'll be joined by  (Charlie Lee) on Money Talks to talk about the future of Bitcoin &amp; Litecoin. 
+",2,10807.0
+2020-10-06,0.013888888888888886,0.11434999999999998,#Bitcoin maximalists are too focused on market cap instead of market utility.,2,10613.7
+2020-10-07,0.02500000000000001,0.5894,"Did you know that when you use #crypto, you substitute authority with autonomy? Share the #TIOMv2 German translation with your German-speaking friends and spread the message of change and hope:  #Bitcoin ",2,10687.0
+2020-10-08,0.1,0.1357," 🎺🎺🎺
+Meet  while playing Light Nite &amp; talking about bitcoin topics next Wednesday!
 
-We'…",2,10943.0
-2020-10-09,0.15,0.3000333333333333,"Join me this week for a fireside chat with  from the  2020 event where we discussed #bitcoin circa 2014, freedom, justice, and so much more.
+📆   Google Calendar: http…",2,10943.0
+2020-10-09,0.15,0.3000333333333333," When you buy bitcoin, someone else is selling bitcoin.",3,11071.0
+2020-10-10,0.1141715367965368,0.1385,"  Revolutionary
+Immutable
+Public
+Collaborative
+Open 
+Resistant
+Decentralized
 
-🎥 Set a Reminder to Join:  #crypto ",3,11071.0
-2020-10-10,0.1141715367965368,0.1385,"   8 part thread?
+It's a framework for understanding why Bitcoin is special and why most blockchains aren't",5,11308.0
+2020-10-11,0.4,0.21005, If it's a crypto thing why not dogfood our own apps and open up a  channel?,2,11385.0
+2020-10-13,0.13999999999999999,0.16598,"To celebrate Litecoin’s birthday, we’re having a 1 LTC off sale for the Litecoin Block card. For the next 24 hours, the price is 17 LTC or 0.075 BTC.
 
-If you've followed it that closely, you will know that Litecoin has always followed Bitcoin's footsteps. We've never had development outside of merging in Bitcoin code. We are finally doing something different with MWEB. And I've never been more active than now.",5,11308.0
-2020-10-11,0.5,0.4201,#Bitcoin sounds more like #BitcoinCash ,1,11385.0
-2020-10-13,0.13999999999999999,0.16598000000000002, If you missed Bill's discussion with  on #Litecoin and #Bitcoin you can now watch it here in its entirety! http…,5,11442.0
-2020-10-14,0.20083333333333334,0.50885,Buy hundreds of different gift cards from directly inside the  wallet using #Bitcoin with high network fees or #BitcoinCash with almost no network fee. ,2,11440.0
-2020-10-15,0.2,0.5242,"🚨🚨🚨 Новый перевод!🚨🚨🚨
+All proceeds will go to the Litecoin Foundation and will help fund MWEB on Litecoin.
+
+To purchase, visit:
+ ",5,11442.0
+2020-10-14,0.20083333333333334,0.50885," Monero will have scaling issues if it becomes popular due to TXO size growing indefinitely. Also, Monero is not on a lot of exchanges and is not very liquid. It’s good to strive for more privacy and fungibility on Litecoin and Bitcoin, no?",2,11440.0
+2020-10-15,0.08333333333333334,0.03634999999999999,"🚨🚨🚨 Новый перевод!🚨🚨🚨
 
 The #InternetofMoney Volume One is now available in Russian! Get your ebook from the #aantonopShop today and teach a friend about the power of #bitcoin. 
 
-💰 You can pay with #crypto or fiat:  #TIOMv1 #TIOMv1Russian ",1,11509.0
-2020-10-16,0.46875,0.46904999999999997,"Tomorrow join  and I for a chat about the #LightningNetwork at 1PM EDT/1700 UTC. We’ll discuss our upcoming book &amp; more! ⚡
-
-🎥 Set a Reminder Here:  #Lightning #Bitcoin ",2,11325.0
+💰 You can pay with #crypto or fiat:  #TIOMv1 #TIOMv1Russian ",2,11509.0
+2020-10-16,0.46875,0.46904999999999997,It's #internationalfoodday so lettuce give thanks to fantas-taco #bitcoin! It's bean with us for years and still gives us all the fillings! 🌮 ,2,11325.0
 2020-10-17,0.1191017316017316,0.22459999999999997,I just donated #BitcoinCash so you can more easily accept Bitcoin Cash on your website. ,4,11375.0
-2020-10-18,0.18993055555555555,0.3953,Bitcoin Cash adoption continues to spread because it works as cash. ,2,11518.0
-2020-10-19,0.2461607142857143,0.51645,We've taken my popular #Bitcoin Basics Talk and turned it into a FREE workshop. Test your knowledge &amp; earn your certificate:  ,4,11757.0
-2020-10-20,0.1387202380952381,0.447,"✅ Independent of Authority
+2020-10-18,0.19328703703703706,0.2549333333333333,Bitcoin Cash adoption continues to spread because it works as cash. ,3,11518.0
+2020-10-19,0.2461607142857143,0.5164500000000001,"Bitcoin Cash is money built for you, not for banks. ",4,11757.0
+2020-10-20,0.1416904761904762,0.44908000000000003,"✅ Independent of Authority
 ✅ Independent of Institutions
 ✅ A first for the History of Money
 
-This is #Bitcoin. 💪 ",4,11925.0
-2020-10-21,0.12981481481481483,0.39405555555555555," The service will be available to PayPal account holders in the U.S. in the coming weeks and initially feature #Bitcoin, #Ethere…",9,12825.0
-2020-10-22,0.3874545454545455,-0.05264000000000002,Bitcoin Cash has more than 20 times the transaction capacity of Bitcoin.,5,12988.0
-2020-10-23,0.17055555555555557,0.20861999999999997,"Don’t miss the October Livestream Q&amp;A session tomorrow! Current questions include: the travel rule &amp; #cryptocurrency, wealthy companies &amp; people trying to compromise #bitcoin, and #proofofstake. 
+This is #Bitcoin. 💪 ",5,11925.0
+2020-10-21,0.1298148148148148,0.39405555555555555,The Last Word on Bitcoin’s Energy Consumption  via ,9,12825.0
+2020-10-22,0.3874545454545455,-0.05264000000000002,"Are we headed for a 1984 future? Or maybe more of a Brave New World future? Can #Bitcoin save us?
 
-🎥 Set a Reminder &amp; Share:  #crypto ",5,12935.0
-2020-10-24,0.42857142857142855,0.3595,"📣 The Livestream Q&amp;A starts right now! Join here to learn about #bitcoin, #smartcontracts and much more:  #crypto ",1,13132.0
-2020-10-26,0.1875,0.486,"  Huh? I realize it well! The fallacy on the bitcoin side is not that conservatism is valuable (it is!), the fallacy is the idea that sticking with tried+tested technology is always the most safety-favoring path (reality: PoS just has fundamentally better economics vs 51% attacks)",2,13061.0
-2020-10-27,-0.018749999999999996,0.6929000000000001,"Tired of trying to teach your friends &amp; family about #bitcoin &amp; #OpenBlockchains? Outsource it! They can learn for themselves in my FREE introductory workshop &amp; prove their knowledge by showing off a certificate of completion.
+Watch:  #cryptocurrency #20201984",5,12988.0
+2020-10-23,0.17055555555555557,0.20862000000000003," Holy Cow
 
-Here’s this link to share:  ",2,13626.3
-2020-10-28,0.121875,0.22641999999999998,"Bitcoin and Bitcoin Cash are equally scarce, but Bitcoin Cash can actually be used for payments. ",5,13272.0
-2020-10-29,0.315719696969697,0.26217500000000005, Bought $100 in BTC on  !  Great milestone for the market! ,4,13451.0
+Most bullish commentary for #bitcoin that I have read from JP Morgan
+
+""Even modest crowding out of #GOLD takes #bitc…",5,12935.0
+2020-10-24,0.23338744588744587,0.03986666666666664,"This month’s Community Builder Q&amp;A starts in 30 minutes. Join now &amp; get the slido access code early. Let’s discuss your questions and learn something new together!
+
+💬 1PM EDT/1700 UTC:  #crypto ",3,13132.0
+2020-10-25,0.0625,0.0," By 数字货币 does he mean ""cryptocurrency"" or much more watered-down forms of centralized digital currency though?",1,13037.0
+2020-10-26,0.1875,0.486," Bitcoin continues to evolve, in scale as well as other features. 
+
+""Malthusian""-doom papers notwithstanding, Bitcoin will continue to evolve even while people write obituaries for it.",2,13061.0
+2020-10-27,-0.018749999999999996,0.6929000000000001, Bitcoin is a strange game where the only winning move is to play. ,2,13626.3
+2020-10-28,0.1299674036281179,0.40818571428571426,"Bitcoin and Bitcoin Cash are equally scarce, but Bitcoin Cash can actually be used for payments. ",7,13272.0
+2020-10-29,0.24257575757575758,0.22518000000000002," LIVE at 4:30PM #Baltimore time- The 1 #Bitcoin Show- Charlie Lee returns! $BTC, #Litecoin, #MimbleWimble, PayPal, INX, Cred,…",5,13451.0
 2020-10-30,0.03116071428571429,0.4548,"👻 Join me tomorrow at 10AM PDT/1700 UTC &amp; celebrate Halloween #crypto style! I’ll be joined by some very special guests on the Bonus Livestream &amp; we’ll be sharing scary stories of #bitcoin and crypto’s past &amp; present! 
 
 🎥 Set a Reminder to Join:  ",2,13568.0
-2020-10-31,0.0,0.05135," 🇻🇪 The Venezuelan government expands scope of its remittance platform with #Bitcoin &amp; .
+2020-10-31,0.0930059523809524,0.09519999999999999," Vitalik interviewing me, starts at about 7:00, about crypto and tech most of all: ",6,13788.0
+2020-11-01,0.0,-0.14049999999999999," Together with #Bitcoin, #Litecoin is now officially a remittance instrument according to Venezuela's government.
 
-Take a look:
-…",2,13788.0
-2020-11-01,0.0,-0.14049999999999999,See  explain why #Bitcoin censorship is on the way: ,3,13756.0
+https:/…",3,13756.0
 2020-11-02,0.078125,0.57455,"#ICYMI: Saturday’s livestream was a 2 hour event with the other hosts of our weekly podcast Speaking of #Bitcoin, where we shared scary #crypto stories of past and present. 
 
 Yes, we were all dressed in Halloween costumes. 
 
 Watch:  ",2,13563.0
-2020-11-03,0.03402777777777778,-0.012799999999999997,"#ICYMI: See me, Adam, Stephanie, and Jonathan from the Original Let’s Talk #Bitcoin podcast all dressed up for Halloween and talking about scary #crypto stories of the past, present, and maybe future.
+2020-11-03,0.03405612244897959,-0.008299999999999998," Miners can't change the rules without the consent of the users. If they try, they fork off a less valuable clone and lose a lot of money. The original chain continues.
 
-Watch:  ",3,14025.0
-2020-11-04,0.0,-0.5848,"Is #bitcoin a sewer rat or banker rat poison? It’s both! In this short Q&amp;A video, I explain why:  ",1,14160.0
-2020-11-05,0.2,-0.234,"Do you know about the beginning of #bitcoin? How to earn it? How the price is derived? Prove it. Test your knowledge in my free Introduction to #Bitcoin and Open Blockchains Workshop and earn the certificate of completion. 
-
-🤓📙📓 Get your nerd on!  ",1,15574.0
+This is a fundamental concept that has been demonstrated in practice on Bitcoin, most recently in August 2017.",7,14025.0
+2020-11-04,0.28054924242424245,0.2917199999999999,"In any case, wish the project well and it's definitely worth checking out alongside the other crypto PMs!",5,14160.0
+2020-11-05,0.28180555555555553,0.09901666666666668, Successfully committing fraud with a well-designed system would require breaking cryptographic algorithms. So actually quite far from the perfect fraud system.,6,15574.0
 2020-11-06,0.024999999999999994,0.4215," &gt; I was under the impression one would need to acquire &gt;50% of all existing BTC
 
 No. You only need to acquire an amount roughly equal to a few months to a year worth of mining revenue.",1,15571.7
@@ -1424,169 +1451,148 @@ No. You only need to acquire an amount roughly equal to a few months to a year w
 Adam, Stephanie, Jonathan and I discussed these things &amp; a whole lot more last week on Scary Stories of Cryptoween (Yes, we all wore costumes.)
 
 Check it out:  ",2,14844.1
-2020-11-08,0.13020833333333331,0.1626,Bitcoin has been forever crippled by its 1MB block size limit.  Luckily the world has Bitcoin Cash and other non crippled coins. ,2,15501.0
-2020-11-09,0.1203219696969697,0.27949999999999997,"Another day, another new Bitcoin Cash accepting merchant in Antigua. #Caribbean 
- ",4,15329.0
-2020-11-10,0.12757575757575756,0.23979999999999999,Topic for Saturday’s livestream: giving and receiving #cryptocurrencies like #bitcoin for the holidays. Plan to join:  ,3,15312.0
-2020-11-11,-0.010416666666666666,0.1423," Simply different priorities, different goals and development philosophies. 
+2020-11-08,0.14513888888888887,0.43805," I actually wonder how convex vs concave map to constrained vs unconstrained! The concave worldview *feels* to me like it's the constrained one, and yet it's eg. the Bitcoin side that considers itself constrained in the Sowell sense!",4,15501.0
+2020-11-09,0.20208874458874457,0.24009999999999998," They haven't done anything. They've recreated a custodial unauditable centralized bank on crypto. That's like putting pneumatic tires on a horse carriage and saying ""Tah-dah! Behold the future of the automobile"".",7,15329.0
+2020-11-10,0.12757575757575756,0.23979999999999999,"Are you a victim of the current ponzibanking scheme? #Bitcoin isn’t built on fractional reserves, learn more about how bitcoin is different in my new Q&amp;A:  ",3,15312.0
+2020-11-11,0.03511904761904762,0.40678000000000003,"💛🥳 🎉 We have added #crypto leggings to the #aantonopShop including our fav #LightningNetwork heart! 🎉🥳💛 
 
-Bitcoin also had an upgrade-related 26-block fork that resulted in a mess (April 2013 if I remember correctly)
+⚡ Strike a pose &amp; check them out:  ",5,15710.0
+2020-11-12,0.123027898027898,0.28645,"As mentioned in my pre-announcement announcement video, 😁 my team &amp; I have been working hard on a new workshop for you: Choose Your #Cryptocurrency Wallet! Learn how to choose the right #bitcoin wallet(s) for you. Use code NYKNYC for 10% off:  ",6,16294.0
+2020-11-13,0.165625,0.33285,"Topic for Saturday’s livestream: giving and receiving #cryptocurrencies like #bitcoin for the holidays. 
 
-There's value to the experiments that Ethereum makes possible. 
+🎥 Set a Reminder &amp; Share:  #crypto ",6,16310.0
+2020-11-14,0.1203102453102453,0.5795," If you watch the video you will see I actually advise against giving crypto as a holiday gift, especially to people who are not interested.",3,16058.3
+2020-11-15,0.114393611439066,-0.09598181818181815,"What are the WORST places to store #bitcoin? has been my most popular video this week. 
 
-Few understand this ;-)",2,15710.0
-2020-11-12,0.02741702741702741,0.07145000000000001,"As mentioned in my pre-announcement announcement video, 😁 my team &amp; I have been working hard on a new workshop for you: Choose Your #Cryptocurrency Wallet! Learn how to choose the right #bitcoin wallet(s) for you. Use code NYKNYC for 10% off:  ",2,16294.0
-2020-11-13,0.13999999999999999,0.20751999999999998,"Looking to read about #bitcoin in German? Check out the German translation of #TIOMv2 to learn about: 
+Watch it to learn what I think are the 3 worst places to store #cryptocurrency and one of the best.  
 
-#Blockchain vs. Bullshit💩 
-The Scale of Immutability🔒 
-The Rules of #Bitcoin 📙 
+Learn even more about wallets in my new workshop: Choosing Yo ... ",11,15962.2
+2020-11-16,0.15,0.195925,"I remember this! I even reported on it: 
 
-Read on Kindle &amp; Kindle Unlimited:  ",5,16310.0
-2020-11-15,0.1343722943722944,-0.11595999999999998, When anyone mentions #Bitcoin within earshot of me ,5,15962.2
-2020-11-16,0.16666666666666666,0.2612333333333333," Poolin, Bitcoin's second largest mining pool, is being pro-active about Taproot activation. Their hash power will support th…",3,16710.0
-2020-11-17,0.0020867768595041265,0.07325454545454545,  🎶 Toss a bitcoin to ur Witcher 🎶,11,17674.9
-2020-11-18,0.5,0.6696,You can’t stand in the way of what will be the greatest revolution in financial services in three centuries!  #TIOMv3 #Bitcoin ,1,17773.0
-2020-11-19,0.1841969696969697,0.10238000000000003,Use the tears test 😭 to see if you should start moving your #bitcoin off of your mobile device into more secure storage. Watch this 2min video to learn more:  ,5,17810.0
-2020-11-20,0.06666666666666667,0.16820000000000002,This is why #Bitcoin Cash: ,3,18669.0
-2020-11-21,0.0,0.3595,"Bitcoin Cash is what Bitcoin was from 2009 to 2015.
-Don’t miss the opportunity of a lifetime, twice! ",1,18660.0
+Crypto has come far since then: in 2020 we now have fast confirmations, scalability, stablecoins, privacy options, etc. I actually think crypto for consumer payments deserves another push! ",4,16710.0
+2020-11-17,0.022746212121212115,0.11215000000000001,"If you're new to #Bitcoin and wondering how it works, maybe how the price is ""set"" or how it gets its value, I have a free workshop that explains it all in simple terms:
+
+ ",12,17674.9
+2020-11-18,0.34975233100233105,0.23084999999999997,Common newbie question: Can I store a lot of #cryptocurrency on my mobile wallet? Answer: you shouldn't. Use the tears test to see if you need a more secure solution like a hardware wallet. 😭😭😭 &lt;-- don't let this be you:  ,4,17773.0
+2020-11-19,0.18787247474747473,0.22115000000000004,"My least favorite parts of ""crypto twitter"" are increasingly not the parts that promote coins I don't like because of values I consider wrongheaded, but rather the soulless parts that only care about which ""narrative"" has more ""alpha"" 🤮. Have a vision and believe in it, guys!",6,17810.0
+2020-11-20,0.018750000000000003,0.226625,  I definitely do not think that anyone in crypto has an excessive focus on privacy.,4,18669.0
+2020-11-21,0.0,0.17975," I hosted a fireside chat  with  on the future of Ethereum and crypto, plus an update on progre…",2,18660.0
 2020-11-22,0.12916666666666665,-0.37995," Dude, you're literally part of a company that created a proprietary consortium chain for people to stick their tokens onto that only needs to exist because BTC (and even trustless L2s on top of it) don't have the scalability or functionality to do so natively.",2,18399.0
-2020-11-23,0.18154761904761904,-0.2071666666666667,"Fill in the blank. Fractional reserve banking is another way of saying _______  _________. 
+2020-11-23,0.13616071428571427,-0.09880000000000001,"The #aantonopshop 20% off storewide sale starts Tuesday. But if you can’t wait for the #ChooseYourWallet Workshop, get 10% off RIGHT NOW using code: NYKNYC and learn about #bitcoin wallets! ",4,18373.0
+2020-11-24,0.20026041666666666,0.564475, Actually I would say it's higher than most in crypto! I'm pleasantly surprised.,8,19134.8
+2020-11-25,0.1512345679012346,0.34805555555555556,"What do physics and astronomy have to do with your private key? 
+Fall down the rabbit hole with me to find out! 
+Watch more:  
+#bitcoin #ethereum #monero #cryptocurrency ",9,18730.0
+2020-11-26,0.2184904601571268,0.446, Looking to join in on the bitcoin boom? A new report from  says  could be your best bet. Mi…,9,17219.0
+2020-11-27,0.16944444444444443,0.4919833333333334,There are now more than 40 major businesses accepting #Bitcoin Cash in #Antigua thanks to  #Caribbean ,6,17169.3
+2020-11-28,0.13668695887445886,0.5491874999999999,"Why can’t someone just guess my private key? How many private keys are there? Full video  
 
-Learn about the ponzibanking… er… the fractional reserve banking system &amp; escaping it with #bitcoin in one of my latest videos: ",3,18373.0
-2020-11-24,0.2263888888888889,0.6447, it is not too late for Bitcoin.. great alternative to gold... which i have always believed in,6,19134.8
-2020-11-25,0.13888888888888887,0.2968875,"Open Topic Livestream this Saturday! Questions are pouring in from patrons on everything from lightningpool, to seg-wit and merkle trees, to wearing #bitcoin sweaters to the gym &amp; so much more.
+This video was taken from one of my recent Livestream events, I’ll be doing a NEW Livestream today at 17:00 UTC. Join me:    #crypto ",8,17746.0
+2020-11-29,0.005303030303030293,0.6472200000000001,"ICYMI Price Volatility: Watch this 2 min video about markets &amp; who determines the value of bitcoin and other cryptocurrencies?  
 
-Laugh &amp; learn with us this weekend.
+#cryptocoaster #bitcoin #BTC #ETH #XMR ",5,18196.0
+2020-11-30,0.18368963443963446,0.10914999999999998,"First, check and see how congested things are. A great site for this is Johoe's Bitcoin Mempool statistics:
 
-🎥 Set a Reminder:  ",8,18730.0
-2020-11-26,0.26305916305916305,0.5714285714285714," And how many miners in Bitcoin are behind those pools? Last time I checked, at least some of the pools are doing some or all of their mining by themselves",7,17219.0
-2020-11-27,0.16944444444444443,0.4919833333333334,"Don’t miss the November Livestream Q&amp;A session TOMORROW!
 
-Current questions include:
- - virgin #bitcoin,
-- BTS decisions your wallet makes, 
-- feeling weird about telling others about #cryptocurrency
-- &amp; many more
 
-🎥 Set a Reminder &amp; Share:   #crypto ",6,17169.3
-2020-11-28,0.15142045454545455,0.587475,It’s becoming more clear by the month that the “digital gold” narrative was something cooked up to prevent competition with cash and make BTC acceptable to the powers that be. - ,4,17746.0
-2020-11-29,0.005303030303030293,0.64722," ""Earning interest"" is what you need for inflationary assets, to beat the inflation.
+That rising mountain is 6hrs of activity. There are already 30,000 transactions willing to pay more than 50 satoshis per byte
 
-For a dis-inflationary asset like Bitcoin, you hold like an endowement fund and it gains purchasing power. You can sell a small portion every now and then to live off, if you need.",5,18196.0
-2020-11-30,0.12517756132756133,0.105465,"Some wallets won't let you set the fee rate or confirmation target. Some wallets also estimate fees very conservatively and aggressively overpay fees. That's because if your transaction is stuck you complain to the wallet devs. If you overpay fees you blame the bitcoin devs
+2/ ",24,19686.0
+2020-12-01,0.1377349828820417,0.14918235294117646," If any of my employees asked me to get paid in Digibyte or another cryptocurrency, I would gladly research and do it. They don't ask for it. Do you wonder why they prefer Bitcoin? I don't - I'm not a maximalist, I'm a pragmatist. 
 
-/5",20,19686.0
-2020-12-01,0.14009341931216931,0.15910625,"Number go up! Teach me #crypto! 
+I don't have the time to explore every niche.",17,18807.0
+2020-12-02,0.043750000000000004,0.03942142857142857,   Well... I'd say they are the second worst option for starting in Bitcoin. The worst option is... not starting,14,19241.0
+2020-12-03,0.16705948372615043,0.26992222222222223,"ATH means you’re probably hearing from people you haven't talked to in years, asking you to teach them bitcoin. 
 
-Are you hearing this from your friends, family, very very distant cousins, people you haven't talked to in years? Save your valuable time &amp; let me teach them the basics in my FREE workshop:  
+Save your valuable time, send them this link &amp; let me teach them the basics in my FREE workshop:   
 
-#bitcoin #eth #cryptocurrency ",16,18807.0
-2020-12-02,0.06145833333333334,0.0694,"The best way to avoid this nasty trap is to:
+#bitcoin #eth #cryptocurrency #Blockchain ",9,19447.0
+2020-12-04,0.4421717171717172,0.62145,"Rumors of New Bitcoin &amp; Cryptocurrency Self-Hosted Wallet Regulations in the US. 
+ 
 
-- Earn bitcoin and self-custody
-or
-- Buy bitcoin, withdraw and self-custody
+#bitcoin #ethereum #cryptocurrency #Crypto ",6,18657.0
+2020-12-05,0.18291245791245792,0.31793333333333335, Having trouble keeping up with news and developments related to #Bitcoin privacy? I write a monthly newsletter to do just that.…,9,19157.0
+2020-12-06,0.2499650415721844,0.3210666666666666," Hmm, I don't like throwing around the word ""scam"" lightly; I would definitely not call EOS even a borderline scam, for example. I can say that XRP is certainly not a project that advances the goals I'm in crypto to achieve.",21,19410.0
+2020-12-07,0.22545995670995672,0.59242,"🚨🚨LAST CHANCE🚨🚨
 
-But if you didn't start there, take a moment and some professional advice to think about next steps.",12,19241.0
-2020-12-03,0.07681818181818181,0.19074,"PayPal bitcoin isn't #bitcoin. It's even worse than leaving your #crypto on an exchange. 
+The 20% off store wide sale ends TODAY! Use code Holiday20 at checkout for #HODL tees, #bitcoin baby onesies, #crypto stickers, Mastering Bitcoin, Mastering #Ethereum &amp; more.
 
-Watch this short video and learn why the PayPal + bitcoin ""adoption"" is risky for buyers, for PayPal itself, and could even be risky for #bitcoin.  ",5,19447.0
-2020-12-04,0.44217171717171716,0.62145,"It's like 2017 again with everyone asking questions about bitcoin, prices, how to get it, etc. Save your time and let me teach them the basics in this FREE workshop: 
+Shop now with discount code Holiday20  ➡️  ",5,19196.0
+2020-12-08,0.11122334455667787,0.2109777777777778,"📢  SALE ENDS TODAY 
 
-#bitcoin #etherum #cryptocurrency #Blockchain ",6,18657.0
-2020-12-05,0.22742424242424245,0.13213999999999998,Bitcoin Cash helps those who need it most: ,5,19157.0
-2020-12-06,0.19175815696649032,0.3631944444444444," The non-profit Crypto Currency Certification Consortium, that produces the Certified Bitcoin Professional (CBP) exam and cert is operated by volunteers who help build the standards, and the exam questions.
+Use code Holiday20 at checkout to get 20% off of #HODL tees, Not Your Keys, Not Your Coins merch, #crypto stickers, Mastering #Bitcoin, Mastering #Ethereum &amp; more.
 
-We also produce a security standard (CCSS) and auditor cert (CCSSA).",18,19410.0
-2020-12-07,0.2443181818181818,0.43426666666666663," Going Live in 15 minutes with Charlie Lee and Jonny Litecoin!
-
-#litecoin #bitcoin #cryptocurrency 
-
-youtube link below 👇👇
-ht…",3,19196.0
-2020-12-08,0.05659090909090908,0.07974,"   Withdrawing to your own wallet does not incur a taxable event. 
-
-Those who find that they have BTC in an exchange where they can't withdraw, were being told to simply ""sell and buy it back elsewhere"" as alternative - which does incur a taxable event. 
-
-That's what I was saying",5,18335.0
-2020-12-09,-0.010416666666666671,0.2409,"Buying bitcoin isn't the only way to get it. Here are 3 different ways to get #bitcoin, #ethereum, and other #cryptocurrencies even if you don't have a ton of money to invest:  ",4,18560.0
-2020-12-10,0.08262987012987012,0.13294285714285717," American insurance company MassMutual has purchased $100 million worth of #bitcoin.
-
- reports
-
-",7,18260.0
-2020-12-11,0.10277777777777776,0.5146333333333333,"You can’t claim a $5 #Bitcoin tip when fees are $3.  
+Browse and shop:  ➡️  ",9,18335.0
+2020-12-09,-0.0736111111111111,0.3857166666666667,"Buying bitcoin isn't the only way to get it. Here are 3 different ways to get #bitcoin, #ethereum, and other #cryptocurrencies even if you don't have a ton of money to invest:  ",6,18560.0
+2020-12-10,0.07230113636363636,0.03122500000000001,"#ICYMI I’ve recently spoken about the USA threatening to regulate self-hosted #crypto wallets. Learn what these regs are, how they'd affect regular crypto users, &amp; why #cryptocurrency exchanges are worried:  ",8,18260.0
+2020-12-11,0.14791666666666664,0.366675,"You can’t claim a $5 #Bitcoin tip when fees are $3.  
 That’s why #BitcoinCash
- ",3,18050.0
-2020-12-12,0.09391098484848484,0.3216125,"Going live in 30min to talk about the weirdest questions people have asked you about #bitcoin &amp; #crypto, and how to answer them! Join now and chat before the livestream starts:  ",8,18810.6
-2020-12-13,-0.0015824915824915926,0.3239,"Live Premiere of my  talk starts in 5 min, join now to chat.  
+ ",4,18050.0
+2020-12-12,0.13903198653198653,0.36472222222222217," Not that it really works that way, but I'll humor you and take the number at face value.
 
-#FairnessProtocol #Bitcoin #ethereum #cryptocurrency ",3,19180.0
-2020-12-14,0.03455988455988456,0.04617142857142855, Don't Buy #Bitcoin! | Andreas M. Antonopoulos &amp; Simon Dixon | Bitcoin HARD Talk  via  p…,7,19281.0
-2020-12-15,0.3141071428571428,0.50248,"BTCPay has really evolved into a payments platform for Bitcoin
+10 billion is 10^10. 
 
-More good stuff to come... ",5,19459.0
-2020-12-16,0.07901785714285714,0.04994999999999999,"The price going up is nice, but how can Bitcoin bring more economic freedom to the world if most of the world can’t afford to transact in Bitcoin?",8,21322.0
-2020-12-17,0.16225749559082894,0.24928888888888892,#BitcoinCash vs #Bitcoin ,9,22806.6
-2020-12-18,0.08066719829877725,0.1265210526315789,"  But Mark brings up an interesting point that I have discovered by using Bitcoin as my savings and earning it for my labor. 
+Bitcoin operates at 256 bits, which is 10^77
 
-When the value declines, my savings lose value but I get paid more BTC per hour. When it rises, I get less BTC per hour but my savings rise: self-balancing",19,23127.0
-2020-12-19,0.35833333333333334,0.268525,Make your own #Bitcoin Cash #Christmas gifts at  ,4,23804.0
-2020-12-20,0.25148836117586115,0.4543125,"  For $230 you won't find many who are willing to spend the time. If your scheme is only good enough for that kind of amount, it's not very useful. 
+These numbers are unfathomably large. Quantum computers are very far from 256 bits",9,18810.6
+2020-12-13,0.19534051452020199,0.3781,"Don't overreact to the phishing scams that target hardware wallet buyers
 
-Put 1 BTC on it and make a bounty. I'll be happy to retweet it for you.",8,23427.0
-2020-12-21,0.17768308080808082,0.22099999999999997," EP:52  W/  - Mike offers to help  buy bitcoin. -  buys 29,646 #Bitcoin…",9,22701.0
-2020-12-22,0.14781090121999213,0.1990636363636364," Welcome to the show! Special guest  explains the power of bitcoin, role of bitcoin in 2020 &amp; onwards, geopolitical b…",11,23805.0
-2020-12-23,0.08270089285714285,0.0314,Passwords and multi-factor authentication are an important part of #bitcoin #cryptocurrency security. Learn how and why it’s important to protect yourself and some things you can do right now to up your security game:  ,4,23234.0
-2020-12-24,0.3052777777777778,0.8184,Over half a million views and counting! Thanks for sharing with your friends and family WHY #bitcoin and #blockchains matter:  ,3,23735.0
-2020-12-25,0.2902777777777778,0.46270000000000006," Merry Christmas &amp; Happy Holidays Litecoin Fam!!! 
+Hardware wallets are some of the best mechanisms we have to store crypto. 
 
-#litecoin #litecoinfam $LTC #crypto #blockchain #bitcoin …",6,24717.0
-2020-12-26,0.42851190476190476,0.538075,"ATH makes it even more likely that your old wallet has more money in it than you remember. Watch   &amp; go searching in your #crypto couch cushions. Good luck! 
+Compromising a website database is not at all the same as compromising the security of the hardware wallet.",8,19180.0
+2020-12-14,0.05995858585858586,0.13597, Isn't the microstrategy thing just them trying to turn their company into a de-facto bitcoin ETF for regulatory arbitrage purposes?,10,19281.0
+2020-12-15,0.27981150793650794,0.4187333333333334,"BTCPay has really evolved into a payments platform for Bitcoin
 
-#cryptocurrency #bitcoin #btc #eth #xmr ",4,26412.0
-2020-12-27,0.06670110192837465,0.49075454545454544," There are lots of old Bitcoin UTXO with public keys showing and big amounts of BTC.
+More good stuff to come... ",6,19459.0
+2020-12-16,0.07901785714285714,0.049949999999999994,"If you've ever wondered what #bitcoin nodes I run, I answered that in this Q&amp;A for you:  ",8,21322.0
+2020-12-17,0.17915674603174603,0.32016,#BitcoinCash vs #Bitcoin ,10,22806.6
+2020-12-18,0.05242183742183742,0.08358571428571429," I'd be a *billionaire* now if I hadn't sold the 55,000 bitcoins I mined on my laptop in 2009-2010 way too early (mostly be…",21,23127.0
+2020-12-19,0.28979166666666667,0.31536000000000003," By ""stranded"" you mean they will only be able to be spent at places that accept cryptocurrency without converting to fiat? A closed-loop economy?
+
+Oh, the calamity!",5,23804.0
+2020-12-20,0.11608858733858732,0.20143571428571433,"Share the power of #bitcoin with a friend who has just jumped down the #crypto rabbit hole. Here’s one of my most popular videos to get them started, “Bitcoin for Beginners”  ",14,23427.0
+2020-12-21,0.1857481060606061,0.26904999999999996,"Later today I'll be live on youtube answering your questions about the #Ledgerhack. Ask your questions now at  using event code ledgerhackhelp.
+
+Set a reminder to join:  
+
+#bitcoin #ethereum #cryptosecurity #cryptocurrency ",10,22701.0
+2020-12-22,0.12685142238713668,0.13690714285714287,"We’re trying to reach all 300,000 people affected by the #ledgerhack with info on how to protect themselves. This is FREE security advice for the community. Please share with your networks, friends, meetup groups, &amp; anyone who has been into crypto:  ",14,23805.0
+2020-12-23,0.08405032467532468,0.16329090909090907,"Look out for fake 🐌 mail! If your mailing address was leaked in the Ledger data breach, you may start receiving letters asking for money or #bitcoin. Ignore them! Watch this playlist to learn more:  #ledgerhack #ledgerbreach ",11,23234.0
+2020-12-24,0.2463888888888889,0.5214166666666668,"""What a great surprise!"" says someone who found #crypto in their couch cushions after watching:  
+
+Watch and try it for yourself. You might be surprised by what you find! ",6,23735.0
+2020-12-25,0.22464285714285712,0.3734555555555555,Buying bitcoin because everyone else is buying bitcoin isn’t a sound investment principle.,9,24717.0
+2020-12-26,0.44280952380952376,0.5446000000000001,"Go looking for the #crypto you forgot about! Spend an hour, and it might just be a rewarding use of your time:  ",5,26412.0
+2020-12-27,0.13197858688930114,0.4453214285714286," There are lots of old Bitcoin UTXO with public keys showing and big amounts of BTC.
 
 Wake me up when they start moving. Until then:
 
-Extraordinary claims require extraordinary evidence. Otherwise they can be dismissed without effort.",11,26241.0
-2020-12-28,0.10476190476190476,0.11391428571428572,"#Bitcoin supporter logic:
-We have to keep the blocks small so people can afford to potentially run a full node while the masses just use custodial “wallets”.",7,27058.0
-2020-12-29,0.05000000000000001,0.45059999999999995," We were wrong.
+Extraordinary claims require extraordinary evidence. Otherwise they can be dismissed without effort.",14,26241.0
+2020-12-28,0.18545454545454546,0.03830909090909092," Yes, for those who need it. But:
 
-I’ve sold all my #Bitcoin ",3,27315.0
-2020-12-30,0.3467857142857143,0.47738571428571425,#BitcoinCash is for everybody. ,7,28880.0
-2020-12-31,0.37645089285714284,0.62055,  Great diagram. Would you like to contribute it to Mastering Bitcoin?,4,28933.0
-2021-01-01,0.125,-0.11177999999999999,But WHY #bitcoin? Hint: it’s not for the lambos.  ,5,29346.0
-2021-01-02,0.1935274943310658,0.08262857142857143," Machines can use other systems *on behalf of and through the accounts* of humans. The controlling entity is a human.
+- Higher fees (bigger Txs)
+- Bitcoin only
+- Complicates backup/recovery strategy",11,27058.0
+2020-12-29,0.037500000000000006,0.461425,"“A must watch for anyone getting into Bitcoin - we always send first-timers here, the baptism from Andreas :-)” what a high compliment - thank you! Share with your friends, family, &amp; colleagues who are asking you to teach them about #bitcoin:  ",4,27315.0
+2020-12-30,0.34531249999999997,0.5314249999999999,#BitcoinCash is for everybody. ,8,28880.0
+2020-12-31,0.4384672619047619,0.6661833333333333,  Great diagram. Would you like to contribute it to Mastering Bitcoin?,6,28933.0
+2021-01-01,0.06607142857142857,-0.10844285714285713,"Browse high-quality #crypto merch not available anywhere else like leggings, baby onesies, and racerback t-s. And if you find something you like, use the coupon code GoodRiddance2020 to get 20% off of your entire order.  ",7,29346.0
+2021-01-02,0.21104232804232803,0.12808000000000005," Bitcoin is now up about 10,000X since I started making fun of it. You win some you lose some 😀.",15,32185.0
+2021-01-03,0.18386904761904763,0.13916666666666666,"Empower yourself, learn how to chose a #bitcoin wallet for yourself in my Choose Your Wallet workshop. You’ll learn about different types of wallets, hot &amp; cold storage, single &amp; multicurrency, how to avoid pitfalls, &amp; much more.  ",6,32971.0
+2021-01-04,0.21268308080808082,0.48036666666666666,"New to #bitcoin and confused about the terminology? I can help! Let me teach you about public and private keys, hashes, and more so that you’ll be ready to move forward in your #crypto journey.  ",6,32020.0
+2021-01-05,0.06933621933621933,0.21830000000000002,"We use money to express &amp; create social bonds, relationships, associations, &amp; organisations. Because money is a language. Do you speak #bitcoin? If not, watch:  ",9,33996.0
+2021-01-06,0.16762688841770476,0.3662571428571428,"Do you or does someone you know read Russian? We now have the ebook translation of The #InternetofMoney Version 1 in the #aantonopShop. You can pay with #crypto or fiat.
 
-Bitcoin can be used by entirely autonomous agents not controlled or owned by any human. 
+➡️ Help someone learn about #bitcoin today:  #TIOMv1 ",7,36755.0
+2021-01-07,0.0890151515151515,0.2125875," Excited to have $4B mcap $WBTC and $WETH launching on #TRON with   
 
-You're missing... everything ;-)",14,32185.0
-2021-01-03,0.18386904761904765,0.13916666666666666,"Empower yourself, learn how to chose a #bitcoin wallet for yourself in my Choose Your Wallet workshop. You’ll learn about different types of wallets, hot &amp; cold storage, single &amp; multicurrency, how to avoid pitfalls, &amp; much more.  ",6,32971.0
-2021-01-04,0.1493276515151515,0.612325,"New to #bitcoin and confused about the terminology? I can help! Let me teach you about public and private keys, hashes, and more so that you’ll be ready to move forward in your #crypto journey.  ",4,32020.0
-2021-01-05,0.014285714285714287,0.15472857142857147," There's no 2-way peg between LN and BTC. 
-
-LN *is* BTC. 
-
-ETH2 *is* ETH
-
-Perhaps I don't understand what the confusion is?",7,33996.0
-2021-01-06,0.15225340136054422,0.37704000000000004,"1 Book. 5 Languages. 10,000+ FREE copies given away to the community. Thanks for helping us share #bitcoin and #openblockchain education in 154 countries in 1 day. THAT is what I call success. Learn how you can contribute to things like this:  ",5,36755.0
-2021-01-07,0.08901515151515152,0.2125875," Can twitter help me find an Old Pheeva Bitcoin Wallet User, Her name is Rebecca Heyman?  I have been trying to contact her on…",8,39407.0
-2021-01-08,0.21736111111111112,0.4484666666666666," there's lots of cool stuff in the current #Bitcoin release, and you can help test it! 
-
-its a great way to get familiar with the…",3,40509.0
-2021-01-09,0.28887310606060607,0.5492,First livestream of 2021 starts now! See you in the chat! Join me &amp; #crypto nerds from around the globe:  #bitcoin ,2,40171.0
-2021-01-10,0.12981060606060604,0.260225," I’m herewith officially joining the effort to make Bitcoin Cash the leading electronic cash solution in the world.
-
-I will h…",4,38226.0
-2021-01-11,0.425,0.24170000000000003,"In 2020, we had more than 2 million views &amp; added almost 30,000 subscribers to the aantonop YouTube channel. Thank you for helping us teach the world about #bitcoin &amp; open #blockchains! Subscribe:  ",2,35476.0
-2021-01-12,0.02803030303030303,0.2463, One dimensional 19th century political scale bitcoiners. What a cognitive dissonance.,2,34103.0
-2021-01-13,0.1796672077922078,0.29995,"A brand new talk, a livestream on how to run your own node, &amp; an open topic Q&amp;A are all still coming up this month! Don’t miss out- set a reminder to join these events now:  #bitcoin #ethereum #cryptocurrency",4,37375.0
-2021-01-14,0.14645412457912457,0.09763333333333331," Bitcoin Core 0.21.0 Released: What’s New.
-
-""Bitcoin Core 0.21.0 is one of the biggest Bitcoin Core releases in recent…",6,39170.0
-2021-01-15,0.0722119150690579,0.28375714285714276,"Discussed #Bitcoin, #Ethereum, &amp; RIPCORD #blockchains on this episode of The White Rabbit Podcast with Jessi West:  ",7,38856.0
+Meanwhile Wrapped #Litecoin $WLTC on #TRON is…",8,39407.0
+2021-01-08,0.21736111111111112,0.4484666666666666,"Tomorrow is the first livestream of 2021! I’ll be talking #bitcoin, #ethereum, open #blockchains &amp; more. Plan to join by setting a reminder:  ",3,40509.0
+2021-01-09,0.25276988636363634,0.456325,You can learn how to choose a #crypto wallet for yourself in my Choose Your #Cryptocurrency Wallet workshop. Great reviews &amp; 14-day $ back guarantee. Learn more:  ,4,40171.0
+2021-01-10,0.10320707070707069,0.17348333333333332,New to bitcoin &amp; #crypto terminology? Looking for a #bitcoin 101 video? This Intro playlist explains both!  ,6,38226.0
+2021-01-11,0.31363636363636366,0.16113333333333335,"Last week was my New Year’s Extravaganza, #crypto style. If you didn’t catch it live, watch the replay on the aantonop channel:  ",3,35476.0
+2021-01-12,0.3474621212121212,0.58626,"         ""great grand daddy of crypto education"" ",5,34103.0
+2021-01-13,0.1796672077922078,0.29995,"Can you heartly believe your eyes?! That’s right! We’ve got #bitcoin emoji merch! Shop for stickers, mugs &amp; more at  🧡🧡🧡🧡🧡 ",4,37375.0
+2021-01-14,0.14645412457912457,0.09763333333333331,"“I came into this course with no knowledge of #Bitcoin. The concepts were well-explained, and I feel more comfortable with it now. Looking forward to taking another course!” is one of the latest 5-star reviews on my Intro workshop! Take it here:  ",6,39170.0
+2021-01-15,0.06318542568542569,0.26403750000000004,Bitcoin is stupid. ,8,38856.0
