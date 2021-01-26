@@ -1,1 +1,37 @@
-# project2
+# Project 2: Bitcoin AlgoTrader with Twitter Sentiment Analysis
+### Creating an Algotrader using 10 Technical analysis indicators with a focus on sentiment
+
+Code developed by Brendan Shanley, Eli Sakkal, Manny Russel, Nika Chan, and Pablo Cisilino
+
+### Table of Contents
+1. [Introduction](#Introduction)
+2. [Technical Analysis](#TA)
+    - a. [Analytical Process](#Process)
+    - b. [Exponential Moving Average (Price)](#EMA_Price)
+    - c. [Exponential Moving Average (Vol)](#EMA_Volume)
+    - d. [Bollinger Bands](#BB)
+    - e. [MACD](#MACD)
+    - f. [RSI](#RSI)
+    - g. [Chaikin Money Flow](#Chaikin)
+    - h. [Vortex Indicator](#Vortex)
+    - i. [Keltner Channel](#Keltner)
+    - j. [Aroon Indicator](#Aroon)
+    - k. [Ichimoku Cloud](#Ichimoku)
+    - i. [Combined 5 Indicators](#Combined_5)
+    - j. [Combined 10 Indicators](#Combined_10)
+    - k. [TA Conclusion: The best indicator](#Combined_10)
+3. [Twitter Sentiment Analysis](#Twitter)
+    - a. [Analytical Process](#Proccess_sen)
+    - b. [Influencer Tweets](#Influencers)
+    - c. [News Agency Tweets](#News)
+    - d. [Sentiment Tools: Vader vs Textblob](#Tools)
+    - e. [Sentiment Analysis Conclusion](#Sentiment)    
+4. [Project Conclusion](#Conclusion)
+5. [Data Cleaning and Limitations](#Data)
+6. [Conclusions and What can be Improved](#Conclusion)
+7. [All about Data](#Data)
+    - a. [How we cleaned our data](#data_clean)
+    - b. [Data sources](#data_source)
+8. [Considerations for Grading](#Grading)
+    - a. [Fulfillment of project requirements](#requirement)
+    - b. [Who did what](#who)
