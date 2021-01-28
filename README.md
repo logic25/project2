@@ -51,7 +51,7 @@ We used a random forest model to build our predictive model because this ensembl
 
 Below is a list of the 10 technical analysis momentum and volume indicators that were used. Some of them we learned in class and some are new indicators that we wanted to test. (Description for each indicator cane be found in the Appendix).
 
-| Indicators |
+| Indicators |  |
 | ------ | ----------- |
 | - Exponential Moving Average (Price)  |- Chaikin Money Flow (CMF)   |
 | - Exponential Moving Average (Volume) | - Vortex Indicator |
@@ -68,7 +68,7 @@ Out of the 10 indicators, the most important features came from these 5 indicato
 
 <p float="left">
   <img src="Images/importances.png" width="250" />
-  <img src="Images/5results.png" width="250" /> 
+  <img src="Images/5results.png" width="350" /> 
 </p>
 
 
@@ -85,7 +85,7 @@ Comparing different combindations of indicators, we concluded that using all 10 
 
 <p float="left">
   <img src="Images/prediction.png" width="300" />
-  <img src="Images/money.png" width="300" /> 
+  <img src="Images/money.png" width="350" /> 
 </p>
 
 
@@ -140,14 +140,18 @@ We then calculated the correlation between the Bitcoin closing price and individ
 
 We decided to dig deeper into the polarity scores because we were not satisfied with the correlation results. We were surprised to see how "lacking" both of these sentiment tools were. The first example is a tweet that showed very different results betweent TextBlob and Vader. The second tweet generated the wrong sentiment from both tools because of the sarcasm or the way it was said.
 
-Very different polarity score:
-![tweet1](Images/tweet1.png)
+Tweet with very different polarity scores from TextBlob and Vader:
 
-Both got the sentiment on this tweet wrong. The sentiment is actually positive towards Bitcoin.
+![tweet1](Images/tweet1_v2.png)
+
+Tweet where both tools got the sentiment wrong. The sentiment is actually positive towards Bitcoin.
+
 ![tweet2](Images/tweet2.png)
 
 We also made a dataframe of the correlation results in our jupyter notebook. On average, Vader tended to be more extreme or pronounced in its sentiment scoring compared to TextBlob.
-![table](Images/table.png)
+
+![table](Images/inf_results.png)
+![table](Images/news_results.png)
 
 
 ### e. Sentiment Analysis Conclusion <a name="#Sentiment"></a>  
