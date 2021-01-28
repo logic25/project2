@@ -51,7 +51,7 @@ We used a random forest model to build our predictive model because this ensembl
 
 Below is a list of the 10 technical analysis momentum and volume indicators that were used. Some of them we learned in class and some are new indicators that we wanted to test. (Description for each indicator cane be found in the Appendix).
 
-| Indicators | |
+| Indicators |
 | ------ | ----------- |
 | - Exponential Moving Average (Price)  |- Chaikin Money Flow (CMF)   |
 | - Exponential Moving Average (Volume) | - Vortex Indicator |
@@ -67,8 +67,8 @@ The individual indicators returned accuracy rates of .50 to .60.
 Out of the 10 indicators, the most important features came from these 5 indicators (Vortex, Bollinger Bands, RSI, CMF and Keltner). We combined these 5 indicators, ran it through a random forest classifier and the accuracy results were slightly better than most indicators tested individually at 0.57
 
 <p float="left">
-  <img src="Images/importances.png" width="100" />
-  <img src="Images/5results.png" width="100" /> 
+  <img src="Images/importances.png" width="250" />
+  <img src="Images/5results.png" width="250" /> 
 </p>
 
 
@@ -83,7 +83,11 @@ We were not satisfied with the results of the 5 combined indicators, so we combi
 
 Comparing different combindations of indicators, we concluded that using all 10 indicators together produced the best predictive results. If we invested $100,000 in Bitcoin in Feb 2018 and followed all the buy/sell signals from our algotrader, we would have made $350,000. 
 
-![prediction](Images/prediction.png)    ![money](Images/money.png)  
+<p float="left">
+  <img src="Images/prediction.png" width="300" />
+  <img src="Images/money.png" width="300" /> 
+</p>
+
 
 Admittedly, even though the algotrader made money in Bitcoin trading, the predictive accuracy was not that high and buying and holding Bitcoin from Feb 2018 would have yielded a larger profit. We learned that including 10 indicators is better than using 1 indicator but concede that the algotrader needs more data and model tweaking. 
 
@@ -157,42 +161,51 @@ We started off wanting to do use sentiment as an additional indicator to our alg
 
 ## 5. Limitations and What can be Improved <a name="Conclusion"></a> 
 
-    - For the algotrader, the model results are overstated as they don't incorporate trading costs. Also, using more than 3 years of data may improve the model.
+- For the algotrader, the model results are overstated as they don't incorporate trading costs. Also, using more than 3 years of data may improve the model.
 
-    - For sentiment analysis, if we had more time, we could have explored creating our custom sentiment analysis tool tailored to bitcoin tweets that will provide more accurate sentiment scores. In addition, the Twitter API only allows for 3,200 tweets per twitter handle. We could add more user data points.
+- For sentiment analysis, if we had more time, we could have explored creating our custom sentiment analysis tool tailored to bitcoin tweets that will provide more accurate sentiment scores. In addition, the Twitter API only allows for 3,200 tweets per twitter handle. We could add more user data points.
 
 ## 6. All About Data <a name="Data"></a>
 
 ### a. How we cleaned our data <a name="#data_clean"></a>
 
-    - For technical analysis, most of the data cleaning came from fixing the dates. Bitcoin is traded 24/7 and comes with a timestamp that had to be reformatted for python use.
+- For technical analysis, most of the data cleaning came from fixing the dates. Bitcoin is traded 24/7 and comes with a timestamp that had to be reformatted for python use.
 
-    - For sentiment analysis, we removed URLs, retweets, special characters, and only considered tweets in our dataframe that mentioned Bitcoin, BTC, crypto, cryptocurrency. All tweet files were exported to csv files and results were condensed into a dataframe.
+- For sentiment analysis, we removed URLs, retweets, special characters, and only considered tweets in our dataframe that mentioned Bitcoin, BTC, crypto, cryptocurrency. All tweet files were exported to csv files and results were condensed into a dataframe.
 
 ### b. Data sources <a name="#data_source"></a>
 
-    - Bitcoin historical prices: [Bitfinex](https://www.bitfinex.com/)
-    - Tweets: [Twitter API](https://developer.twitter.com/en)
+Bitcoin historical prices: [Bitfinex](https://www.bitfinex.com/)
+
+Tweets: [Twitter API](https://developer.twitter.com/en)
+
 
 ## 7. Considerations for Grading <a name="Grading"></a>
 
 ### a. Fulfillment of project requirements <a name="#requirement"></a>
-    - Fintech application: Created a Bitcoin Algotrader with Sentiment analysis
-    - Machine Learning application: Used Random Forest Classification for trading signals and NLP for Sentiment Analysis
-    - Technical specifics: Used Scikit learn for building the algotrader and Google Colab for doing parts of the sentiment analysis
+- Fintech application: Created a Bitcoin Algotrader with Sentiment analysis
+
+- Machine Learning application: Used Random Forest Classification for trading signals and NLP for Sentiment Analysis
+
+- Technical specifics: Used Scikit learn for building the algotrader and Google Colab for doing parts of the sentiment analysis
 
 ### b. Who did what <a name="#who"></a>
-    - Brendan Shanley: Created the Livestream Twitter Sentiment analysis
-    - Eli Sakkal: Built the Technical Analysis Algotrader. Got our data from Bitfinex
-    - Manny Russell: Leader of the Group, Created the Dashboard where it all comes together 
-    - Nika Chan: Sentiment Analysis (Influencers vs News using textblob and vader), created the README 
-    - Pablo Cisilino: Built the Technical Analysis Algotrader, Created the project proposal
+
+- **Brendan Shanley**: Created the Livestream Twitter Sentiment analysis
+
+- **Eli Sakkal**: Built the Technical Analysis Algotrader. Got our data from Bitfinex
+
+- **Manny Russell**: Leader of the Group, Created the Dashboard where it all comes together 
+
+- **Nika Chan**: Sentiment Analysis (Influencers vs News using textblob and vader), created the README 
+
+- **Pablo Cisilino**: Built the Technical Analysis Algotrader, Created the project proposal
 
 ## 8. Appendix <a name="Appendix"></a>
 
-    - a. The project proposal including descriptions of the 10 Technical Analysis Indicators: 
+a. The project proposal including descriptions of the 10 Technical Analysis Indicators: 
     [Project Proposal](https://docs.google.com/document/d/1AwWWccE0Pu0BKAtvue23TtQEv5SvNVIm0XEZ9cQRx6w/edit)
 
-    - b. [Google Slides Presentation](https://docs.google.com/presentation/d/1_tepvZxLrKLFqL0axp8NUvwEJ_13l8m39PQBygmd8Xo/edit#slide=id.gb8b04f1f11_0_79)
+b. [Google Slides Presentation](https://docs.google.com/presentation/d/1_tepvZxLrKLFqL0axp8NUvwEJ_13l8m39PQBygmd8Xo/edit#slide=id.gb8b04f1f11_0_79)
 
 
