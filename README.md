@@ -46,7 +46,6 @@ We used a random forest model to build our predictive model because this ensembl
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-
 ### b. Individual Indicators <a name="Individual"></a>
 
 Below is a list of the 10 technical analysis momentum and volume indicators that were used. Some of them we learned in class and some are new indicators that we wanted to test. (Description for each indicator cane be found in the Appendix).The individual indicators returned accuracy rates of .50 to .60.
@@ -60,22 +59,25 @@ Below is a list of the 10 technical analysis momentum and volume indicators that
 | - Relative Strength Index (RSI)   | - Ichimoku Cloud  |
 
 
-
 ### c. Combined 5 Indicators <a name="Combined_5"></a>
 
 Out of the 10 indicators, the most important features came from these 5 indicators (Vortex, Bollinger Bands, RSI, CMF and Keltner). We combined these 5 indicators, ran it through a random forest classifier and the accuracy results were slightly better than most indicators tested individually at 0.57
 
-Most important Features
-![10 results](Images/importances.png)
+**Most important Features**
+
+![Importances](Images/importances.png)
 
 
-Results of Combining 5 most top features
-![10 results](Images/5results.png)
+**Results of Combining 5 most top features**
+
+![5 results](Images/5results.png)
 
 
 ### d. Combined 10 Indicators <a name="Combined_10"></a>
 
 We were not satisfied with the results of the 5 combined indicators, so we combined all 10 indicators and ran the same random forest classifier to see its predictive accuracy. We got the best accuracy results from combining all 10 indicators. The accuracy has gone up to 0.62.
+
+**Results of Combining all 10 features indicators**
 
 ![10 results](Images/10results.png)
 
@@ -85,12 +87,12 @@ We were not satisfied with the results of the 5 combined indicators, so we combi
 Comparing different combindations of indicators, we concluded that using all 10 indicators together produced the best predictive results. If we invested $100,000 in Bitcoin in Feb 2018 and followed all the buy/sell signals from our algotrader, we would have made $350,000. 
 
 
-Algotrader results with $100,000 investment
+**Algotrader results with $100,000 investment**
 ![money](Images/money.png)
 
 Admittedly, even though the algotrader made money in Bitcoin trading, the predictive accuracy was not that high and buying and holding Bitcoin from Feb 2018 would have yielded a larger profit. We learned that including 10 indicators is better than using 1 indicator but concede that the algotrader needs more data and model tweaking.
 
-Model results with 10 indicators
+
 ![prediction](Images/prediction.png)
 
 
@@ -141,10 +143,9 @@ We then calculated the correlation between the Bitcoin closing price and individ
 
 
 ### d. Sentiment tools: TextBlob vs Vader <a name="#Tools"></a>
-<pre>
+
 We decided to dig deeper into the polarity scores because we were not satisfied with the correlation results. We were surprised to see how "lacking" both of these sentiment tools were. The first example is a tweet that showed very different results betweent TextBlob and Vader. The second tweet generated the wrong sentiment from both tools because of the sarcasm or the way it was said.
-
-
+<p>&nbsp;</p>
 
 **Tweet with very different polarity scores from TextBlob and Vader:**
 
@@ -159,7 +160,7 @@ We also made a dataframe of the correlation results in our jupyter notebook. On 
 ![table](Images/inf_results.png)
 ![table](Images/news_results.png)
 
-</pre>
+
 
 ### e. Sentiment Analysis Conclusion <a name="#Sentiment"></a>  
 
