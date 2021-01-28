@@ -1,5 +1,5 @@
 # Project 2: Bitcoin AlgoTrader with Twitter Sentiment Analysis
-### Creating an Algotrader using 10 Technical analysis indicators with a focus on sentiment
+### Creating an Algotrader using 10 Technical analysis indicators and Twitter sentiment
 
 Code developed by Brendan Shanley, Eli Sakkal, Manny Russel, Nika Chan, and Pablo Cisilino
 
@@ -43,8 +43,6 @@ We used a random forest model to build our predictive model because this ensembl
 
 ![TA process](Images/taprocess.png)
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ### b. Individual Indicators <a name="Individual"></a>
 
@@ -68,7 +66,7 @@ Out of the 10 indicators, the most important features came from these 5 indicato
 ![Importances](Images/importances.png)
 
 
-**Results of Combining 5 most top features**
+**Results of combining 5 top features**
 
 ![5 results](Images/5results.png)
 
@@ -92,11 +90,10 @@ Comparing different combindations of indicators, we concluded that using all 10 
 
 Admittedly, even though the algotrader made money in Bitcoin trading, the predictive accuracy was not that high and buying and holding Bitcoin from Feb 2018 would have yielded a larger profit. We learned that including 10 indicators is better than using 1 indicator but concede that the algotrader needs more data and model tweaking.
 
-
-![prediction](Images/prediction.png)
-
+<img src="Images/prediction.png" width="400" height="400">
 
 ------
+<p>&nbsp;</p>
 
 ## 3. Twitter Sentiment Analysis <a name="Twitter"></a>
 
@@ -154,12 +151,12 @@ We decided to dig deeper into the polarity scores because we were not satisfied 
 **Tweet where both tools got the sentiment wrong. The sentiment is actually positive towards Bitcoin.**
 
 ![tweet2](Images/tweet2.png)
-
+<p>&nbsp;</p>
 We also made a dataframe of the correlation results in our jupyter notebook. On average, Vader tended to be more extreme or pronounced in its sentiment scoring compared to TextBlob.
 
-![table](Images/inf_results.png)
-![table](Images/news_results.png)
 
+<img src="Images/inf_results.png" width="300" height="200">
+<img src="Images/news_results.png" width="300" height="200">
 
 
 ### e. Sentiment Analysis Conclusion <a name="#Sentiment"></a>  
