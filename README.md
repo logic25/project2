@@ -49,7 +49,7 @@ We used a random forest model to build our predictive model because this ensembl
 
 ### b. Individual Indicators <a name="Individual"></a>
 
-Below is a list of the 10 technical analysis momentum and volume indicators that were used. Some of them we learned in class and some are new indicators that we wanted to test. (Description for each indicator cane be found in the Appendix).
+Below is a list of the 10 technical analysis momentum and volume indicators that were used. Some of them we learned in class and some are new indicators that we wanted to test. (Description for each indicator cane be found in the Appendix).The individual indicators returned accuracy rates of .50 to .60.
 
 | Indicators |  |
 | ------ | ----------- |
@@ -60,16 +60,17 @@ Below is a list of the 10 technical analysis momentum and volume indicators that
 | - Relative Strength Index (RSI)   | - Ichimoku Cloud  |
 
 
-The individual indicators returned accuracy rates of .50 to .60.
 
 ### c. Combined 5 Indicators <a name="Combined_5"></a>
 
 Out of the 10 indicators, the most important features came from these 5 indicators (Vortex, Bollinger Bands, RSI, CMF and Keltner). We combined these 5 indicators, ran it through a random forest classifier and the accuracy results were slightly better than most indicators tested individually at 0.57
 
-<p float="left">
-  <img src="Images/importances.png" width="250" />
-  <img src="Images/5results.png" width="350" /> 
-</p>
+Most important Features
+![10 results](Images/importances.png)
+
+
+Results of Combining 5 most top features
+![10 results](Images/5results.png)
 
 
 ### d. Combined 10 Indicators <a name="Combined_10"></a>
@@ -83,13 +84,15 @@ We were not satisfied with the results of the 5 combined indicators, so we combi
 
 Comparing different combindations of indicators, we concluded that using all 10 indicators together produced the best predictive results. If we invested $100,000 in Bitcoin in Feb 2018 and followed all the buy/sell signals from our algotrader, we would have made $350,000. 
 
-<p float="left">
-  <img src="Images/prediction.png" width="300" />
-  <img src="Images/money.png" width="350" /> 
-</p>
 
+Algotrader results with $100,000 investment
+![money](Images/money.png)
 
-Admittedly, even though the algotrader made money in Bitcoin trading, the predictive accuracy was not that high and buying and holding Bitcoin from Feb 2018 would have yielded a larger profit. We learned that including 10 indicators is better than using 1 indicator but concede that the algotrader needs more data and model tweaking. 
+Admittedly, even though the algotrader made money in Bitcoin trading, the predictive accuracy was not that high and buying and holding Bitcoin from Feb 2018 would have yielded a larger profit. We learned that including 10 indicators is better than using 1 indicator but concede that the algotrader needs more data and model tweaking.
+
+Model results with 10 indicators
+![prediction](Images/prediction.png)
+
 
 ------
 
@@ -114,6 +117,7 @@ We picked 5 Bitcoin influencers who had at least 500,000 followers and were acti
 | Roger K Ver | 623 k | World's first Investor in Bitcoin startups including http://Bitcoin.com, http://Blockchain.com, Ripple, http://Z.cash, BitPay, Kraken, http://Purse.io & more!.|
 | Andreas  Antonopoulos| 541 k | Bitcoin & Open Blockchains, since 2012. Author of 5 books.|
 | Anthony  Pompliano   | 473 k | I do dope stuff in real life. Have invested $100M+ in early stage companies, including multiple unicorns. Write a daily letter to 100k investors: http://pompletter.com|
+|<img width=300/>|<img width=100/>|<img width=300/>|
 
 In addition to the influencers above, we also took tweets from news outlets in Twitter that focused on Bitcoin or cryptocurrency. Influencers might be biased towards Bitcoin so we thought it would be good to include sentiment from the News as well. 
 
@@ -137,14 +141,16 @@ We then calculated the correlation between the Bitcoin closing price and individ
 
 
 ### d. Sentiment tools: TextBlob vs Vader <a name="#Tools"></a>
-
+<pre>
 We decided to dig deeper into the polarity scores because we were not satisfied with the correlation results. We were surprised to see how "lacking" both of these sentiment tools were. The first example is a tweet that showed very different results betweent TextBlob and Vader. The second tweet generated the wrong sentiment from both tools because of the sarcasm or the way it was said.
 
-Tweet with very different polarity scores from TextBlob and Vader:
+
+
+**Tweet with very different polarity scores from TextBlob and Vader:**
 
 ![tweet1](Images/tweet1_v2.png)
 
-Tweet where both tools got the sentiment wrong. The sentiment is actually positive towards Bitcoin.
+**Tweet where both tools got the sentiment wrong. The sentiment is actually positive towards Bitcoin.**
 
 ![tweet2](Images/tweet2.png)
 
@@ -153,6 +159,7 @@ We also made a dataframe of the correlation results in our jupyter notebook. On 
 ![table](Images/inf_results.png)
 ![table](Images/news_results.png)
 
+</pre>
 
 ### e. Sentiment Analysis Conclusion <a name="#Sentiment"></a>  
 
