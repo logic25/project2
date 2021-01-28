@@ -90,7 +90,7 @@ Comparing different combindations of indicators, we concluded that using all 10 
 
 Admittedly, even though the algotrader made money in Bitcoin trading, the predictive accuracy was not that high and buying and holding Bitcoin from Feb 2018 would have yielded a larger profit. We learned that including 10 indicators is better than using 1 indicator but concede that the algotrader needs more data and model tweaking.
 
-<img src="Images/prediction.png" width="600" height="400">
+<img src="Images/prediction.png" width="500" height="350">
 
 ------
 <p>&nbsp;</p>
@@ -155,8 +155,8 @@ We decided to dig deeper into the polarity scores because we were not satisfied 
 We also made a dataframe of the correlation results in our jupyter notebook. On average, Vader tended to be more extreme or pronounced in its sentiment scoring compared to TextBlob.
 
 
-<img src="Images/inf_results.png" width="600" height="400">
-<img src="Images/news_results.png" width="600" height="400">
+<img src="Images/inf_results.png" width="600" height="300">
+<img src="Images/news_results.png" width="600" height="300">
 
 
 ### e. Sentiment Analysis Conclusion <a name="#Sentiment"></a>  
