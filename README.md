@@ -153,7 +153,7 @@ We decided to dig deeper into the polarity scores because we were not satisfied 
 ![tweet2](Images/tweet2.png)
 <p>&nbsp;</p>
 We also made a dataframe of the correlation results in our jupyter notebook. On average, Vader tended to be more extreme or pronounced in its sentiment scoring compared to TextBlob.
-
+<p>&nbsp;</p>
 
 <img src="Images/inf_results.png" width="600" height="300">
 <img src="Images/news_results.png" width="600" height="300">
@@ -185,7 +185,6 @@ We started off wanting to do use sentiment as an additional indicator to our alg
 ### b. Data sources <a name="#data_source"></a>
 
 Bitcoin historical prices: [Bitfinex](https://www.bitfinex.com/)
-
 Tweets: [Twitter API](https://developer.twitter.com/en)
 
 
