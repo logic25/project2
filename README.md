@@ -150,9 +150,7 @@ We decided to dig deeper into the polarity scores because we were not satisfied 
 
 **Tweet where both tools got the sentiment wrong. The sentiment is actually positive towards Bitcoin.**
 
-![tweet2](Images/tweet2_v2.png)
-
-![tweet2](Images/tweet2_v3.png)
+![tweet2](Images/tweet2_v4.png)
 <p>&nbsp;</p>
 We also made a dataframe of the correlation results in our jupyter notebook. On average, Vader tended to be more extreme or pronounced in its sentiment scoring compared to TextBlob.
 <p>&nbsp;</p>
