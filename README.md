@@ -86,6 +86,7 @@ Comparing different combindations of indicators, we concluded that using all 10 
 
 
 **Algotrader results with $100,000 investment**
+
 ![money](Images/money.png)
 
 Admittedly, even though the algotrader made money in Bitcoin trading, the predictive accuracy was not that high and buying and holding Bitcoin from Feb 2018 would have yielded a larger profit. We learned that including 10 indicators is better than using 1 indicator but concede that the algotrader needs more data and model tweaking.
