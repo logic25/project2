@@ -17,15 +17,16 @@ Code developed by Brendan Shanley, Eli Sakkal, Manny Russel, Nika Chan, and Pabl
     - c. [Results: Influencer vs News](#results)
     - d. [Sentiment Tools: Vader vs Textblob](#Tools)  
     - e. [Sentiment Analysis Conclusion](#Sentiment)
-4. [Dashboard](#Dashboard)
-5. [Limitations and What can be Improved](#Conclusion)
-6. [All about Data](#Data)
+4. [Technical Analysis Dashboard](#Dashboard)
+5. [Twitter Livestream](#Livestream)
+6. [Limitations and What can be Improved](#Conclusion)
+7. [All about Data](#Data)
     - a. [How we cleaned our data](#data_clean)
     - b. [Data sources](#data_source)
-7. [Considerations for Grading](#Grading)
+8. [Considerations for Grading](#Grading)
     - a. [Fulfillment of project requirements](#requirement)
     - b. [Who did what](#who)
-8. [Appendix](#Appendix)
+9. [Appendix](#Appendix)
 
 
 ## 1. Introduction <a name="Introduction"></a>
@@ -166,15 +167,28 @@ We started off wanting to do use sentiment as an additional indicator to our alg
 
 ## 4. Dashboard with TA, Sentiment charts, and Live Sentiment streaming <a name="Dashboard"></a>
 
-[put GIF of dashboard and livestream here]
+[@Manny please upload dashboard]
 
-## 5. Limitations and What can be Improved <a name="Conclusion"></a> 
+
+## 5. Twitter Livestream <a name="Livestream"></a>
+
+Apart from the historical analysis of twitter sentiments regarding Bitcoin, we also created a "livestream" twitter sentiment tool that refreshes periodically. We modified existing Twitter Scrapers and accessed the Twitter API to search for recent tweets regarding Bitcoin to gauge overall sentiment surrounding the Cryptocurrency. We used the polarity scores to determine overall sentiment and plotted them in a histogram which gave a useful representation of how the Twitter community felt about the leading cryptocurrency.
+
+We ran this script at various time intervals and we noticed the following things:
+
+    1) Twitter sentiment did not change drastically over the several weeks of this project and
+
+    2) Sentiment (polarity) measured in tight intervals may not be very useful. There were times when only a few hundred tweets got pulled that met the search criteria when we pulled it every few minutes versus the thousands that we would receive over a full day.  
+
+This was developed in a Jupyter Notebook file, converted it into a .py file for execution. This can be run on a local machine and setup with a task scheduler to have the script run daily. Eventually, we would want something like this to be put into the cloud and use the data it pulls to further develop our metrics as this focuses on all of twitter versus the more narrowed focus we used when looking at influencers and press members. You can access the tool here: [Twitter Livestream](https://github.com/logic25/project2/tree/main/3.Twitter%20livestream%20sentiment)
+
+## 6. Limitations and What can be Improved <a name="Conclusion"></a> 
 
 - For the algotrader, the model results are overstated as they don't incorporate trading costs. Also, using more than 3 years of data may improve the model.
 
 - For sentiment analysis, if we had more time, we could have explored creating our custom sentiment analysis tool tailored to bitcoin tweets that will provide more accurate sentiment scores. In addition, the Twitter API only allows for 3,200 tweets per twitter handle. We could add more user data points.
 
-## 6. All About Data <a name="Data"></a>
+## 7. All About Data <a name="Data"></a>
 
 ### a. How we cleaned our data <a name="#data_clean"></a>
 
@@ -188,28 +202,28 @@ Bitcoin historical prices: [Bitfinex](https://www.bitfinex.com/)
 Tweets: [Twitter API](https://developer.twitter.com/en)
 
 
-## 7. Considerations for Grading <a name="Grading"></a>
+## 8. Considerations for Grading <a name="Grading"></a>
 
 ### a. Fulfillment of project requirements <a name="#requirement"></a>
 - Fintech application: Created a Bitcoin Algotrader with Sentiment analysis
 
 - Machine Learning application: Used Random Forest Classification for trading signals and NLP for Sentiment Analysis
 
-- Technical specifics: Used Scikit learn for building the algotrader and Google Colab for doing parts of the sentiment analysis
+- Technical specifics: Used Scikit learn for building the algotrader and Google Colab for doing parts of the machine learning and sentiment analysis
 
 ### b. Who did what <a name="#who"></a>
 
-- **Brendan Shanley**: Created the Livestream Twitter Sentiment analysis
+- **Brendan Shanley**: Created the Livestream Twitter Sentiment analysis. [Twitter Livestream](https://github.com/logic25/project2/tree/main/3.Twitter%20livestream%20sentiment)
 
-- **Eli Sakkal**: Built the Technical Analysis Algotrader. Got our data from Bitfinex
+- **Eli Sakkal**: Built the Technical Analysis Algotrader. Got our data from Bitfinex and cleaned the machine learning data. [Bitcoin Algotrader](https://github.com/logic25/project2/blob/main/1.Algotrader%20Technical%20Analysis/Pro2_TA.ipynb)
 
-- **Manny Russell**: Leader of the Group, Created the Dashboard where it all comes together 
+- **Manny Russell**: Leader of the Group, Created the Dashboard. 
 
-- **Nika Chan**: Sentiment Analysis (Influencers vs News using textblob and vader), created the README 
+- **Nika Chan**: Sentiment Analysis (Influencers vs News using textblob and vader), created the README. [NLP](https://github.com/logic25/project2/tree/main/2.NLP%20Sentiment%20Analysis)
 
-- **Pablo Cisilino**: Built the Technical Analysis Algotrader, Created the project proposal
+- **Pablo Cisilino**: Built the Technical Analysis Algotrader, Created the project proposal. [Bitcoin Algotrader](https://github.com/logic25/project2/blob/main/1.Algotrader%20Technical%20Analysis/Pro2_TA.ipynb)
 
-## 8. Appendix <a name="Appendix"></a>
+## 9. Appendix <a name="Appendix"></a>
 
 a. The project proposal including descriptions of the 10 Technical Analysis Indicators: 
     [Project Proposal](https://docs.google.com/document/d/1AwWWccE0Pu0BKAtvue23TtQEv5SvNVIm0XEZ9cQRx6w/edit)
