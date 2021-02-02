@@ -174,6 +174,8 @@ We started off wanting to do use sentiment as an additional indicator to our alg
 
 Apart from the historical analysis of twitter sentiments regarding Bitcoin, we also created a "livestream" twitter sentiment tool that refreshes periodically. We modified existing Twitter Scrapers and accessed the Twitter API to search for recent tweets regarding Bitcoin to gauge overall sentiment surrounding the Cryptocurrency. We used the polarity scores to determine overall sentiment and plotted them in a histogram which gave a useful representation of how the Twitter community felt about the leading cryptocurrency.
 
+![Histogram](Images/histogram.png)
+
 We ran this script at various time intervals and we noticed the following things:
 
 1. Twitter sentiment did not change drastically over the several weeks of this project and
