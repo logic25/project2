@@ -176,9 +176,9 @@ Apart from the historical analysis of twitter sentiments regarding Bitcoin, we a
 
 We ran this script at various time intervals and we noticed the following things:
 
-    1) Twitter sentiment did not change drastically over the several weeks of this project and
+1. Twitter sentiment did not change drastically over the several weeks of this project and
 
-    2) Sentiment (polarity) measured in tight intervals may not be very useful. There were times when only a few hundred tweets got pulled that met the search criteria when we pulled it every few minutes versus the thousands that we would receive over a full day.  
+2. Sentiment (polarity) measured in tight intervals may not be very useful. There were times when only a few hundred tweets got pulled that met the search criteria when we pulled it every few minutes versus the thousands that we would receive over a full day.  
 
 This was developed in a Jupyter Notebook file, converted it into a .py file for execution. This can be run on a local machine and setup with a task scheduler to have the script run daily. Eventually, we would want something like this to be put into the cloud and use the data it pulls to further develop our metrics as this focuses on all of twitter versus the more narrowed focus we used when looking at influencers and press members. You can access the tool here: [Twitter Livestream](https://github.com/logic25/project2/tree/main/3.Twitter%20livestream%20sentiment)
 
