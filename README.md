@@ -165,9 +165,9 @@ We also made a dataframe of the correlation results in our jupyter notebook. On 
 We started off wanting to do use sentiment as an additional indicator to our algotrader for Bitcoin. However, after going through the tweets and digging into the sentiment tools, we concluded that present day TextBlob and Vader are not reliable enough to provide a clear signal to trade on.
 
 
-## 4. Dashboard with TA, Sentiment charts, and Live Sentiment streaming <a name="Dashboard"></a>
+## 4. Technical Analysis Dashboard <a name="Dashboard"></a>
 
-[@Manny please upload dashboard]
+We created a dashboard that shows the different technical analysis indicators we used as signals for the Bitcoin algotrader. Please refer to dashboard notebook.
 
 
 ## 5. Twitter Livestream <a name="Livestream"></a>
@@ -211,7 +211,7 @@ Tweets: [Twitter API](https://developer.twitter.com/en)
 
 - Machine Learning application: Used Random Forest Classification for trading signals and NLP for Sentiment Analysis
 
-- Technical specifics: Used Scikit learn for building the algotrader and Google Colab for doing parts of the machine learning and sentiment analysis
+- Technical specifics: Used Scikit learn for building the algotrader and Google Colab for doing parts of the machine learning and sentiment analysis. See google colab version of the algotrader here: [Google Colab](https://github.com/logic25/project2/blob/main/Pro2_TA.ipynb)
 
 ### b. Who did what <a name="#who"></a>
 
