@@ -167,7 +167,7 @@ We started off wanting to do use sentiment as an additional indicator to our alg
 
 ## 4. Technical Analysis Dashboard <a name="Dashboard"></a>
 
-We created a dashboard that shows the different technical analysis indicators we used as signals for the Bitcoin algotrader. Please refer to dashboard notebook.
+We created a dashboard that shows the different technical analysis indicators we used as signals for the Bitcoin algotrader. Please refer to dashboard here: [Dashboard](https://github.com/logic25/project2/tree/main/4.%20Dashboard%20visuals) 
 
 
 ## 5. Twitter Livestream <a name="Livestream"></a>
@@ -219,7 +219,7 @@ Tweets: [Twitter API](https://developer.twitter.com/en)
 
 - **Eli Sakkal**: Built the Technical Analysis Algotrader. Got our data from Bitfinex and cleaned the machine learning data. [Bitcoin Algotrader](https://github.com/logic25/project2/blob/main/1.Algotrader%20Technical%20Analysis/Pro2_TA.ipynb)
 
-- **Manny Russell**: Leader of the Group, Created the Dashboard. 
+- **Manny Russell**: Leader of the Group, Created the Dashboard. [Dashboard](https://github.com/logic25/project2/tree/main/4.%20Dashboard%20visuals) 
 
 - **Nika Chan**: Sentiment Analysis (Influencers vs News using textblob and vader), created the README. [NLP](https://github.com/logic25/project2/tree/main/2.NLP%20Sentiment%20Analysis)
 
